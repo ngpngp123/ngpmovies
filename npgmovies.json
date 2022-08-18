@@ -129,6 +129,61 @@
 
   
 ]
+},
+    {
+
+    "type": "Other",
+    "movies": [
+{
+  "movieName":"loop",
+    "img":"http://zegomovie.com/Uploads/vod/2022-02-19/621078b021361.jpg",
+    "downloadLink":"0",
+    "playLink": "http://www.zegomovie.com/Videos/LooopLapeta/index.m3u8"
+    
+  },
+ {
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  },
+{
+  "movieName":"0",
+    "img":"0",
+    "downloadLink":"0",
+    "playLink": "0"
+    
+  }
+]
 }
 ]
 
