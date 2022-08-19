@@ -55,6 +55,62 @@
   }
 ]
 },
+{
+
+    "type": "Jackie Chan",
+    "movies": [
+{
+  "movieName":"Vanguard",
+    "img":"http://zegomovie.com/Uploads/vod/2020-11-16/5fb218af61048.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Vanguard/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Vanguard/index.m3u8"
+    
+  },
+ {
+  "movieName":"Skiptrace",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-28/5ced308436d1a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Skiptrace/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Skiptrace/index.m3u8"
+    
+  },
+{
+  "movieName":"First Strike",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-28/5ced043163fb3.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FirstStrike/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FirstStrike/index.m3u8"
+    
+  },
+{
+  "movieName":"The Knight of Shadows Between Yin and...",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-27/5d144d3aa0bd2.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheKnightofShadowsBetweenYinandYang/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheKnightofShadowsBetweenYinandYang/index.m3u8"
+    
+  },
+{
+  "movieName":"Rush Hour 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04748624a35.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/RushHour2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/RushHour2/index.m3u8"
+    
+  },
+{
+  "movieName":"The Myth",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-28/5cecdd3f4e557.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheMyth/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheMyth/index.m3u8"
+    
+  },
+{
+  "movieName":"Rob B Hood",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-30/5cef5b1320e22.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/RobBHood/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/RobBHood/index.m3u8"
+    
+  }
+]
+},
+    
 
 
 
@@ -63,7 +119,7 @@
 
 {
 
-    "type": "Stephen Chow & Jackie Chan",
+    "type": "Stephen Chow",
     "movies": [
 {
   "movieName":"Kung Fu Hustle",
