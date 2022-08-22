@@ -55,6 +55,153 @@
   }
 ]
 },
+    {
+
+    "type": "Jet-Li",
+    "movies": [
+    
+{
+  "movieName":"The Mummy Tomb of the Dragon Emperor",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-08/5cfb4050f1ed7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheMummyTomboftheDragonEmperor/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheMummyTomboftheDragonEmperor/index.m3u8"
+    
+  },
+ {
+  "movieName":"League of Gods",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-29/5cedfcc62c9d9.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/LeagueofGods/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LeagueofGods/index.m3u8"
+    
+  },
+{
+  "movieName":"The Expendables 1",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff23b4a2426.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheExpendables1/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheExpendables1/index.m3u8"
+    
+  },
+{
+  "movieName":"The Expendables 3",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff243e730ec.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheExpendables3/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheExpendables3/index.m3u8"
+    
+  },
+{
+  "movieName":"War",
+    "img":"http://zegomovie.com/Uploads/vod/2020-01-09/5e1705e52ddb6.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/War/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/War/index.m3u8"
+    
+  },
+        {
+  "movieName":"Once Upon a Time In China",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d046f643bb58.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/OnceUponaTimeInChina/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/OnceUponaTimeInChina/index.m3u8"
+    
+  },
+ {
+  "movieName":"Once Upon a Time in China II",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d046b7b56865.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/OnceUponaTimeinChinaII/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/OnceUponaTimeinChinaII/index.m3u8"
+    
+  },
+{
+  "movieName":"Once Upon a Time in China III",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d0478550f486.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/OnceUponaTimeinChinaIII/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/OnceUponaTimeinChinaIII/index.m3u8"
+    
+  },
+{
+  "movieName":"Fist of Legend",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-29/5cee767bb039c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FistofLegend/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FistofLegend/index.m3u8"
+    
+  },
+{
+  "movieName":"The Legend II",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d0737b09d687.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheLegendII/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheLegendII/index.m3u8"
+    
+  },
+{
+  "movieName":"Flying Swords of Dragon Gate",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-30/5cefb6423997f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FlyingSwordsofDragonGate/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FlyingSwordsofDragonGate/index.m3u8"
+    
+  },
+        {
+  "movieName":"Fearless",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-14/5d038ec282a96.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Fearless/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Fearless/index.m3u8"
+    
+  },
+        {
+  "movieName":"Martial Arts Of Shaolin",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04754c3bfe9.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MartialArtsOfShaolin/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MartialArtsOfShaolin/index.m3u8"
+    
+  },
+        {
+  "movieName":"The One",
+    "img":"http://zegomovie.com/Uploads/vod/2020-02-06/5e3b928c5b06e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheOne/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheOne/index.m3u8"
+    
+  },
+        {
+  "movieName":"Hero",
+    "img":"http://zegomovie.com/Uploads/vod/2020-02-22/5e50f8231906f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Hero/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Hero/index.m3u8"
+    
+  },
+        {
+  "movieName":"The Warlords",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-14/5d0396361a163.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheWarlords/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheWarlords/index.m3u8"
+    
+  },
+        {
+  "movieName":"Unleashed",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d0731f7bb915.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Unleashed/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Unleashed/index.m3u8"
+    
+  },
+        {
+  "movieName":"Badges of Fury",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-30/5cefa98636ba4.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BadgesofFury/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BadgesofFury/index.m3u8"
+    
+  },
+        {
+  "movieName":"Ocean Heaven",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d0470843ddb5.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/OceanHeaven/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/OceanHeaven/index.m3u8"
+    
+  },
+        {
+  "movieName":"My Father Is Hero",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d046fdf0de21.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MyFatherIsHero/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MyFatherIsHero/index.m3u8"
+    
+  }
+]
+},
 
 {
 
