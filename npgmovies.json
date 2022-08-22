@@ -65,50 +65,50 @@
 {
   "movieName":"Blowback",
     "img":"http://zegomovie.com/Uploads/vod/2022-07-23/62db74e93eb5c.jpg",
-    "downloadLink":"0",
-    "playLink": "0"
+    "downloadLink":"http://www.zegomovie.com/Videos/Blowback/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Blowback/index.m3u8"
     
   },
  {
   "movieName":"Fantastic Beasts: The Secrets of Dumb...",
     "img":"http://zegomovie.com/Uploads/vod/2022-08-04/62eb94024a5b9.jpg",
-    "downloadLink":"0",
-    "playLink": "0"
+    "downloadLink":"http://www.zegomovie.com/Videos/FantasticBeastsTheSecretsofDumbledore/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FantasticBeastsTheSecretsofDumbledore/index.m3u8"
     
   },
 {
   "movieName":"The Contractor",
     "img":"http://zegomovie.com/Uploads/vod/2022-04-29/626b8969017c9.jpg",
-    "downloadLink":"0",
-    "playLink": "0"
+    "downloadLink":"http://www.zegomovie.com/Videos/TheContractor/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheContractor/index.m3u8"
     
   },
 {
   "movieName":"Thor: God of Thunder",
     "img":"http://zegomovie.com/Uploads/vod/2022-08-09/62f1f1ab877a6.jpg",
-    "downloadLink":"0",
-    "playLink": "0"
+    "downloadLink":"http://www.zegomovie.com/Videos/ThorGodofThunder/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ThorGodofThunder/index.m3u8"
     
   },
 {
   "movieName":"Fistful of Vengeance",
     "img":"http://zegomovie.com/Uploads/vod/2022-08-15/62f9fa98ace3a.jpg",
-    "downloadLink":"0",
-    "playLink": "0"
+    "downloadLink":"http://www.zegomovie.com/Videos/FistfulofVengeance/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FistfulofVengeance/index.m3u8"
     
   },
 {
   "movieName":"The Commando",
     "img":"http://zegomovie.com/Uploads/vod/2022-02-18/620f002531740.jpg",
-    "downloadLink":"0",
-    "playLink": "0"
+    "downloadLink":"http://www.zegomovie.com/Videos/TheCommando/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheCommando/index.m3u8"
     
   },
 {
   "movieName":"Moonfall",
     "img":"http://zegomovie.com/Uploads/vod/2022-04-25/62666b396ee9e.jpg",
-    "downloadLink":"0",
-    "playLink": "0"
+    "downloadLink":"http://www.zegomovie.com/Videos/Moonfall/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Moonfall/index.m3u8"
     
   }
 ]
