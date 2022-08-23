@@ -57,6 +57,99 @@
 },
     {
 
+    "type": "Aamir Khan",
+    "movies": [
+    
+{
+  "movieName":"3 Idiots",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff33ca14e8f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/3Idiots/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/3Idiots/index.m3u8"
+    
+  },
+ {
+  "movieName":"Dhoom 3",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff560b46e09.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Dhoom3/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Dhoom3/index.m3u8"
+    
+  },
+{
+  "movieName":"PK",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff4c29f41e2.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PK/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PK/index.m3u8"
+    
+  },
+{
+  "movieName":"Dangal",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-29/5cee0cc77f1f9.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Dangal/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Dangal/index.m3u8"
+    
+  },
+{
+  "movieName":"Lagaan-Once Upon a Time in India",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-29/5cedfe92c5f9c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/LagaanOnceUponaTimeinIndia/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LagaanOnceUponaTimeinIndia/index.m3u8"
+    
+  },
+{
+  "movieName":"Thugs of Hindostan",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-26/5d1302461d0ba.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ThugsofHindostan/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ThugsofHindostan/index.m3u8"
+    
+  },
+{
+  "movieName":"Like Stars on Earth",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-31/5cf10e50338f7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/LikeStarsonEarth/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LikeStarsonEarth/index.m3u8"
+    
+  },
+        {
+  "movieName":"Ghajini",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff4b0f84192.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Ghajini/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Ghajini/index.m3u8"
+    
+  },
+ {
+  "movieName":"Talaash",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfddbc78c6d8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Talaash/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Talaash/index.m3u8"
+    
+  },
+{
+  "movieName":"Fanaa",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-22/5d0de571d012f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Fanaa/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Fanaa/index.m3u8"
+    
+  },
+{
+  "movieName":"Mangal Pandey The Rising",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfddb874d07a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MangalPandeyTheRising/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MangalPandeyTheRising/index.m3u8"
+    
+  },
+        {
+  "movieName":"Rang De Basanti",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfdeae302d69.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/RangDeBasanti/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/RangDeBasanti/index.m3u8"
+    
+  }
+]
+},
+    
+    
+    {
+
     "type": "Tom Hanks",
     "movies": [
     
