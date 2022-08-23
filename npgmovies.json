@@ -57,6 +57,146 @@
 },
     {
 
+    "type": "Tom Hanks",
+    "movies": [
+    
+{
+  "movieName":"Greyhound",
+    "img":"http://zegomovie.com/Uploads/vod/2020-07-11/5f098e42bee3f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Greyhound/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Greyhound/index.m3u8"
+    
+  },
+ {
+  "movieName":"The Green Mile",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-08/5cfb31bef1514.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheGreenMile/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheGreenMile/index.m3u8"
+    
+  },
+{
+  "movieName":"Catch me if you can",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8c3b783f7c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Catchmeifyoucan/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Catchmeifyoucan/index.m3u8"
+    
+  },
+{
+  "movieName":"News of the World",
+    "img":"http://zegomovie.com/Uploads/vod/2021-01-16/6002c7918393d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/NewsoftheWorld/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/NewsoftheWorld/index.m3u8"
+    
+  },
+{
+  "movieName":"Larry Crowne",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-07/5cf9e5dfd19a5.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/LarryCrowne/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LarryCrowne/index.m3u8"
+    
+  },
+{
+  "movieName":"The Circle",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfe18ddcd937.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheCircle/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheCircle/index.m3u8"
+    
+  },
+{
+  "movieName":"The Dvinci Code",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d07470c0b649.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheDvinciCode/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheDvinciCode/index.m3u8"
+    
+  },
+        {
+  "movieName":"A Hologram for the King",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d074b9903267.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/AHologramfortheKing/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AHologramfortheKing/index.m3u8"
+    
+  },
+        {
+  "movieName":"Saving Mr. Banks",
+    "img":"http://zegomovie.com/Uploads/vod/2019-12-02/5de4b173e4cb1.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SavingMrBanks/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SavingMrBanks/index.m3u8"
+    
+  },
+        {
+  "movieName":"Bridge Of Spie",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8bc4a88e43.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BridgeOfSpie/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BridgeOfSpie/index.m3u8"
+    
+  },
+        {
+  "movieName":"Inferno",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-25/5ce8c8e826831.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Inferno/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Inferno/index.m3u8"
+    
+  },
+           {
+  "movieName":"Tom Hanks Angels & Demons",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d074742b4102.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TomHanksAngels&Demons/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TomHanksAngels&Demons/index.m3u8"
+    
+  },
+           {
+  "movieName":"CLOUD ATLAS",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-28/5d15c728e7ac7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/CLOUDATLAS/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CLOUDATLAS/index.m3u8"
+    
+  },
+           {
+  "movieName":"Captain Philips",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfe0b7207b21.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/CaptainPhilips/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CaptainPhilips/index.m3u8"
+    
+  },
+           {
+  "movieName":"Big",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-15/5cdbed7ff1d7f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Big/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Big/index.m3u8"
+    
+  },
+           {
+  "movieName":"The Terminal",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf6444b1f166.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheTerminal/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheTerminal/index.m3u8"
+    
+  },
+           {
+  "movieName":"Saving Private Ryan",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-23/5ce67e5f089f7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SavingPrivateRyan/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SavingPrivateRyan/index.m3u8"
+    
+  },
+           {
+  "movieName":"Finch",
+    "img":"http://zegomovie.com/Uploads/vod/2021-12-28/61ca89374d51a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Finch/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Finch/index.m3u8"
+    
+  },
+           {
+  "movieName":"Forrest Gump",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-08/5cfb5d5fe4d48.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TomHanksisForrestGump/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TomHanksisForrestGump/index.m3u8"
+    
+  }
+]
+},
+    {
+
     "type": "Jet-Li",
     "movies": [
     
