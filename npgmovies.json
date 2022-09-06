@@ -57,6 +57,124 @@
 },
     
     
+    
+    
+    {
+
+    "type": "Spider & Avenger",
+    "movies": [
+    
+{
+  "movieName":"SPIDER-MAN 1",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff34d4877d7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SPIDERMAN1/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SPIDERMAN1/index.m3u8"
+    
+  },
+ {
+  "movieName":"SPIDER-MAN 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff3501b7946.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SPIDERMAN2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SPIDERMAN2/index.m3u8"
+    
+  },
+{
+  "movieName":"SPIDER-MAN 3",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff353205889.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SPIDERMAN3/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SPIDERMAN3/index.m3u8"
+    
+  },
+{
+  "movieName":"The Amazing Spider-Man 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff358f0ffc7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheAmazingSpiderMan2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheAmazingSpiderMan2/index.m3u8"
+    
+  },
+{
+  "movieName":"Spider Man Homecoming",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff3d6d3047b.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SpiderManHomecoming/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SpiderManHomecoming/index.m3u8"
+    
+  },
+{
+  "movieName":"Spider-Man: No Way Home",
+    "img":"http://zegomovie.com/Uploads/vod/2022-01-07/61d7bb228ce7f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SpiderManNoWayHome/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SpiderManNoWayHome/index.m3u8"
+    
+  },
+{
+  "movieName":"Spider-Man: Far from Home",
+    "img":"http://zegomovie.com/Uploads/vod/2019-10-28/5db68b70029a3.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SpiderManFarFromHom/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SpiderManFarFromHom/index.m3u8"
+    
+  },
+{
+  "movieName":"Spider ManInto the Spider Verse",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-28/5d15cf1edb40a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SpiderManIntotheSpiderVerse/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SpiderManIntotheSpiderVerse/index.m3u8"
+    
+  },
+{
+  "movieName":"AVENGERS Endgame",
+    "img":"http://zegomovie.com/Uploads/vod/2019-08-09/5d4d2ab967719.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/AVENGERSEndgame/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AVENGERSEndgame/index.m3u8"
+    
+  },
+{
+  "movieName":"Avengers Infinity War",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-13/5d01d1ccac85e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/AvengersInfinityWar/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AvengersInfinityWar/index.m3u8"
+    
+  },
+{
+  "movieName":"The Avengers 1",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff442ddbd1c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheAvengers1/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheAvengers1/index.m3u8"
+    
+  },
+{
+  "movieName":"Avengers Age of Ultron",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff435ecdc43.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/AvengersAgeofUltron/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AvengersAgeofUltron/index.m3u8"
+    
+  },
+{
+  "movieName":"Captain America First Avenger",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-22/5ce529bdc06cd.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/CaptainAmericaFirstAvenger/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CaptainAmericaFirstAvenger/index.m3u8"
+    
+  },
+{
+  "movieName":"Next Avengers Heroes Of Tomorrow",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04ca2672eea.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/NextAvengersHeroesOfTomorrow/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/NextAvengersHeroesOfTomorrow/index.m3u8"
+    
+  },
+{
+  "movieName":"Avengers Grimm Time Wars",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-13/5d01ea220cb6f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/avengersgrimmtimewars/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/avengersgrimmtimewars/index.m3u8"
+    
+  }
+]
+},
+   
+    
+    
+    
     {
 
     "type": "Will Smith",
