@@ -55,6 +55,132 @@
   }
 ]
 },
+    
+    
+    {
+
+    "type": "Will Smith",
+    "movies": [
+    
+{
+  "movieName":"Aladdin",
+    "img":"http://zegomovie.com/Uploads/vod/2020-01-20/5e254b568808f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Aladdin/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Aladdin/index.m3u8"
+    
+  },
+ {
+  "movieName":"Gemini Man",
+    "img":"http://zegomovie.com/Uploads/vod/2019-12-02/5de4c9875d2d9.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GeminiMan/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GeminiMan/index.m3u8"
+    
+  },
+{
+  "movieName":"Suicide Squad",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-27/5cebc2d0ee746.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SuicideSquad/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SuicideSquad/index.m3u8"
+    
+  },
+{
+  "movieName":"I Am Legend",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfe15b287b3d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/IAmLegend/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/IAmLegend/index.m3u8"
+    
+  },
+{
+  "movieName":"Hancock",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf608d3f28d7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Hancock/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Hancock/index.m3u8"
+    
+  },
+{
+  "movieName":"Bad Boys for Life",
+    "img":"http://zegomovie.com/Uploads/vod/2020-04-10/5e903abda1492.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BadBoysforLife/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BadBoysforLife/index.m3u8"
+    
+  },
+{
+  "movieName":"I Robot",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-22/5d0e0f8f97217.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/IRobot/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/IRobot/index.m3u8"
+    
+  },
+{
+  "movieName":"Bright",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf7779eb9224.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Bright/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Bright/index.m3u8"
+    
+  },
+{
+  "movieName":"The Pursuit of Happyness",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf73be200995.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ThePursuitofHappyness/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ThePursuitofHappyness/index.m3u8"
+    
+  },
+{
+  "movieName":"Bad Boys",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff4fce0315e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BadBoys/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BadBoys/index.m3u8"
+    
+  },
+{
+  "movieName":"Bad Boys 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff500e73e1c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BadBoys2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BadBoys2/index.m3u8"
+    
+  },
+{
+  "movieName":"Focus",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-24/5ce7ccaca3e62.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Focus/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Focus/index.m3u8"
+    
+  },
+{
+  "movieName":"After Earth",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfe25f82f0db.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/AfterEarth/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AfterEarth/index.m3u8"
+    
+  },
+{
+  "movieName":"Collaterl Beauty",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff2992a26cd.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/CollaterlBeauty/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CollaterlBeauty/index.m3u8"
+    
+  },
+{
+  "movieName":"Seven Pounds",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-12/5d00a8254c0d5.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SevenPounds/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SevenPounds/index.m3u8"
+    
+  },
+{
+  "movieName":"King Richard",
+    "img":"http://zegomovie.com/Uploads/vod/2022-01-10/61dbd7dbdac29.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/KingRichard/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/KingRichard/index.m3u8"
+    
+  }
+]
+},
+    
+    
+    
+    
+    
     {
 
     "type": "Aamir Khan",
