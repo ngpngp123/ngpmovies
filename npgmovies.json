@@ -1,4 +1,5 @@
 [
+    
 {
 
     "type": "Soccer Movies",
@@ -51,6 +52,63 @@
     "img":"http://www.zegomovie.com/Uploads/vod/2020-10-29/5f9a4d85d8d45.jpg",
     "downloadLink":"http://www.zegomovie.com/Videos/FernandoTorresTheLastSymbol/index.m3u8",
     "playLink": "http://www.zegomovie.com/Videos/FernandoTorresTheLastSymbol/index.m3u8"
+    
+  }
+]
+},
+    
+    {
+
+    "type": "ထိုင်း ဇာတ်ကားများ",
+    "movies": [
+    
+{
+  "movieName":"Alienoid",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-01/6310857408b57.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Alienoid/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Alienoid/index.m3u8"
+    
+  },
+ {
+  "movieName":"Pee Nak 3",
+    "img":"http://zegomovie.com/Uploads/vod/2022-08-23/63045ca04c0a6.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PeeNak3/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PeeNak3/index.m3u8"
+    
+  },
+{
+  "movieName":"Daeng Phra Khanong",
+    "img":"http://zegomovie.com/Uploads/vod/2022-08-17/62fc9b06d16fe.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DaengPhraKhanong/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DaengPhraKhanong/index.m3u8"
+    
+  },
+{
+  "movieName":"E-San Of The Dead",
+    "img":"http://zegomovie.com/Uploads/vod/2022-08-06/62ee2b1ead298.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ESanOfTheDead/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ESanOfTheDead/index.m3u8"
+    
+  },
+{
+  "movieName":"Master Petchta",
+    "img":"http://zegomovie.com/Uploads/vod/2022-08-01/62e764a0c4f65.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MasterPetchta/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MasterPetchta/index.m3u8"
+    
+  },
+{
+  "movieName":"Dark World",
+    "img":"http://zegomovie.com/Uploads/vod/2022-03-22/6239970f51d38.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DarkWorld/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DarkWorld/index.m3u8"
+    
+  },
+{
+  "movieName":"Get Him Girl",
+    "img":"http://zegomovie.com/Uploads/vod/2022-02-17/620e132d2de89.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GetHimGirl/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GetHimGirl/index.m3u8"
     
   }
 ]
