@@ -56,6 +56,7 @@
   }
 ]
 },
+   
     
     {
 
@@ -688,6 +689,21 @@
 
     "type": "Animation",
     "movies": [
+        
+        {
+  "movieName":"Luck",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-07/63184ce23da18.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Luck/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Luck/index.m3u8"
+    
+  },
+ {
+  "movieName":"Santaman",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-06/6316c6764dbc8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Santaman/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Santaman/index.m3u8"
+    
+  },
     
 {
   "movieName":"Apollo A Space Age Childhood",
