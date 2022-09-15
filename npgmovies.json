@@ -56,7 +56,227 @@
   }
 ]
 },
-   
+   {
+
+    "type": "2022",
+    "movies": [
+    
+{
+  "movieName":"The Wolves",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-14/632193c5c15a6.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheWolves/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheWolves/index.m3u8"
+    
+  },
+{
+  "movieName":"D Block",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-14/632188d4e3b46.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DBlock/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DBlock/index.m3u8"
+    
+  },
+{
+  "movieName":"Executioner’s Strange Talk",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-14/6321405193e95.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ExecutionersStrangeTalk/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ExecutionersStrangeTalk/index.m3u8"
+    
+  },
+{
+  "movieName":"The Killer",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-14/63213a74ae58d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheKiller/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheKiller/index.m3u8"
+    
+  },
+{
+  "movieName":"Sita Ramam",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-13/63204abf17a8d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SitaRamam/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SitaRamam/index.m3u8"
+    
+  },
+{
+  "movieName":"HIT: The First Case",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-13/63203c9a2ff52.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/HITTheFirstCase/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/HITTheFirstCase/index.m3u8"
+    
+  },
+         {
+  "movieName":"Thank You",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-13/631fe2e77c8a6.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ThankYou/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ThankYou/index.m3u8"
+    
+  },
+         {
+  "movieName":"DC League of Super-Pets",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-12/631ee9ffd296f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DCLeagueofSuperPets/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DCLeagueofSuperPets/index.m3u8"
+    
+  },
+         {
+  "movieName":"Vikrant Rona",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-12/631eb4a621007.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/VikrantRona/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/VikrantRona/index.m3u8"
+    
+  },
+         {
+  "movieName":"Cuttputlli",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-10/631c0ca068e87.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Cuttputlli/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Cuttputlli/index.m3u8"
+    
+  },
+         {
+  "movieName":"Ante… Sundaraniki!",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-10/631c07f1ab37a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/AnteSundaraniki/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AnteSundaraniki/index.m3u8"
+    
+  },
+         {
+  "movieName":"Gandharwa",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-10/631c02667b72e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Gandharwa/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Gandharwa/index.m3u8"
+    
+  },
+         {
+  "movieName":"Fall",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-07/63186efb4f947.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Fall/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Fall/index.m3u8"
+    
+  },
+            
+        {
+  "movieName":"Luck",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-07/63184ce23da18.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Luck/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Luck/index.m3u8"
+    
+  },
+         {
+  "movieName":"Dangerous Liaisons",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-07/63183b3e03482.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DangerousLiaisons/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DangerousLiaisons/index.m3u8"
+    
+  },
+         {
+  "movieName":"How to Please a Woman",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-07/63180a760a919.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/HowtoPleaseaWoman/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/HowtoPleaseaWoman/index.m3u8"
+    
+  },
+         {
+  "movieName":"Some Like It Rar",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-06/63170fd2d7c77.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SomeLikeItRar/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SomeLikeItRar/index.m3u8"
+    
+  },
+         {
+  "movieName":"Baby Assassins",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-06/6316fd0227543.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BabyAssassins/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BabyAssassins/index.m3u8"
+    
+  },
+         {
+  "movieName":"Di Renjie Resurrection",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-06/6316f2eba3da4.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DiRenjieResurrection/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DiRenjieResurrection/index.m3u8"
+    
+  },
+         {
+  "movieName":"Nr10",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-06/6316e7a4e6c0a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Nr10/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Nr10/index.m3u8"
+    
+  },
+         {
+  "movieName":"Santaman",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-06/6316c6764dbc8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Santaman/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Santaman/index.m3u8"
+    
+  },
+         {
+  "movieName":"Sniper: The White Raven",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-06/6316b9639719c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SniperTheWhiteRaven/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SniperTheWhiteRaven/index.m3u8"
+    
+  },
+         {
+  "movieName":"19 (1) (a)",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-05/6315a0159f930.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/191a/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/191a/index.m3u8"
+    
+  },
+         {
+  "movieName":"The Summoned",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-05/631561a9c37d7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheSummoned/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheSummoned/index.m3u8"
+    
+  },
+         {
+  "movieName":"Good Luck Jerry",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-03/63130a1c887c8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GoodLuckJerry/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GoodLuckJerry/index.m3u8"
+    
+  },
+         {
+  "movieName":"Purple Hearts",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-03/6312db0d3bd4a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PurpleHearts/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PurpleHearts/index.m3u8"
+    
+  },
+         {
+  "movieName":"The Reef: Stalked",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-02/6311d128ed170.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheReefStalked/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheReefStalked/index.m3u8"
+    
+  },
+         {
+  "movieName":"Orphan: First Kill",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-02/6311b2c68bb14.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/OrphanFirstKill/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/OrphanFirstKill/index.m3u8"
+    
+  },
+         {
+  "movieName":"Alienoid",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-01/6310857408b57.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Alienoid/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Alienoid/index.m3u8"
+    
+  },
+         {
+  "movieName":"Battery",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-01/63105f4ab0212.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Battery/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Battery/index.m3u8"
+    
+  }
+]
+},
+    
+    
+    
     
     {
 
