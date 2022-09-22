@@ -1004,15 +1004,7 @@
     "img":"http://zegomovie.com/Uploads/vod/2019-06-12/5d00f08c21bd1.jpg",
     "downloadLink":"http://www.zegomovie.com/Videos/ThePianoForest/index.m3u8",
     "playLink": "http://www.zegomovie.com/Videos/ThePianoForest/index.m3u8"
-    
-  },
-{
-  "movieName":"A Letter To Momo",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04bab0a36a7.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/ALetterToMomo/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/ALetterToMomo/index.m3u8"
-    
-  },
+    },
 {
   "movieName":"Buddha The Greatest Departure",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-24/5d10899378f09.jpg",
@@ -1020,6 +1012,35 @@
     "playLink": "http://www.zegomovie.com/Videos/BuddhaTheGreatDeparture/index.m3u8"
     
   },
+{
+  "movieName":"Wolf Children",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d073e24634bc.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/WolfChildren/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/WolfChildren/index.m3u8"
+    
+  },
+{
+  "movieName":"From Up On Poppy Hill",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04a3db08f31.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FromUpOnPoppyHill/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FromUpOnPoppyHill/index.m3u8"
+    
+  },
+{
+  "movieName":"Children Who Chase Lost Voice s",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04aefe2c9d3.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ChildrenWhoChaseLostVoices/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ChildrenWhoChaseLostVoices/index.m3u8"
+    
+  },
+{
+  "movieName":"Doraemon",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf4ab898acfb.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Doraemon/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Doraemon/index.m3u8"
+    
+  },
+
 {
   "movieName":"Doraemon",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-22/5d0dc96c5a2c4.jpg",
