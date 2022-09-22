@@ -60,6 +60,41 @@
 
     "type": "2022",
     "movies": [
+        {
+  "movieName":"Charlotte",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-17/63259f4f18c81.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Charlotte/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Charlotte/index.m3u8"
+    
+  },
+        {
+  "movieName":"Nope",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-17/632599fda03ae.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Nope/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Nope/index.m3u8"
+    
+  },
+        {
+  "movieName":"SLR",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-17/63259475cf825.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SLR/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SLR/index.m3u8"
+    
+  },
+        {
+  "movieName":"KKN, Curse Of The Dancing Village",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-17/63258ea26b253.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/KKNCurseOfTheDancingVillage/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/KKNCurseOfTheDancingVillage/index.m3u8"
+    
+  },
+        {
+  "movieName":"777 Charlie",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-17/632581f76d32a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/777Charlie/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/777Charlie/index.m3u8"
+    
+  },
     
 {
   "movieName":"The Wolves",
