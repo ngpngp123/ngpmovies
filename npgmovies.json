@@ -492,6 +492,98 @@
   }
 ]
 },
+    {
+
+    "type": "Jhonny Depp Movies",
+    "movies": [
+    
+{
+  "movieName":"Pirates of the Caribbean Dead Men Tel...",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff3a77bddaf.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PiratesoftheCaribbeanDeadMenTellNoTales/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PiratesoftheCaribbeanDeadMenTellNoTales/index.m3u8"
+    
+  },
+ {
+  "movieName":"Pirates of the Caribbean: At World's End",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff3aa756dc8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PiratesOftheCaribbean2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PiratesOftheCaribbean2/index.m3u8"
+    
+  },
+{
+  "movieName":"Pirates Of the Caribbean 3",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff2e83b3a3f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PiratesOftheCaribbean3/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PiratesOftheCaribbean3/index.m3u8"
+    
+  },
+{
+  "movieName":"Pirates Of the Caribbean 4",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff2eaf42592.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PiratesOftheCaribbean4/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PiratesOftheCaribbean4/index.m3u8"
+    
+  },
+{
+  "movieName":"Pirates of the Caribbean: Dead Man's ...",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff3b13b5e11.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PiratesOftheCaribbean1/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PiratesOftheCaribbean1/index.m3u8"
+    
+  },
+{
+  "movieName":"The Tourist",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-08/5cfb65988ddaa.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheTourist/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheTourist/index.m3u8"
+    
+  },
+{
+  "movieName":"Dark Shadows",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-31/5cf117b5a1c64.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DarkShadows/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DarkShadows/index.m3u8"
+    
+  },
+{
+  "movieName":"The Lone Ranger",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-08/5cfb35c687e7a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheLoneRanger/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheLoneRanger/index.m3u8"
+    
+  },
+{
+  "movieName":"Transcendence",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-12/5d00e8b828c7f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Transcendence/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Transcendence/index.m3u8"
+    
+  },
+{
+  "movieName":"City of Lies",
+    "img":"http://zegomovie.com/Uploads/vod/2019-10-28/5db66a6cedf0f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/CityofLies/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CityofLies/index.m3u8"
+    
+  },
+{
+  "movieName":"The Rum Diary",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-12/5d00a2cc4981b.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheRumDiary/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheRumDiary/index.m3u8"
+    
+  },
+{
+  "movieName":"The Professor",
+    "img":"http://zegomovie.com/Uploads/vod/2019-08-09/5d4d2e8c3d5e7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheProfessor/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheProfessor/index.m3u8"
+    
+  }
+
+]
+},  
     
     
    {
