@@ -61,6 +61,188 @@
     "type": "2022",
     "movies": [
         {
+  "movieName":"Diary",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-01/633802d12359c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Diary/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Diary/index.m3u8"
+    
+  },
+        {
+  "movieName":"Typhoon",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-01/6337e5a430dfc.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Typhoon/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Typhoon/index.m3u8"
+    
+  },
+        {
+  "movieName":"Cadaver",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-30/6336b71f5101f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Cadaver/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Cadaver/index.m3u8"
+    
+  },
+        {
+  "movieName":"The Brother of Lottery",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-30/6336b3fcda5e8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheBrotherofLottery/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheBrotherofLottery/index.m3u8"
+    
+  },
+        {
+  "movieName":"Darlings",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-29/63352de722f08.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Darlings/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Darlings/index.m3u8"
+    
+  },
+           {
+  "movieName":"Shabaash Mithu",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-28/63341ebd65f1c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ShabaashMithu/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ShabaashMithu/index.m3u8"
+    
+  },
+           {
+  "movieName":"Gargi",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-28/633406996116d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Gargi/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Gargi/index.m3u8"
+    
+  },
+           {
+  "movieName":"Kerosene",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-28/633404a5e3b36.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Kerosene/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Kerosene/index.m3u8"
+    
+  },
+           {
+  "movieName":"John Luther",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-28/6333d37fc947a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/JohnLuther/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/JohnLuther/index.m3u8"
+    
+  },
+           {
+  "movieName":"One Week Friends",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-27/6332d053b551f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/OneWeekFriends/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/OneWeekFriends/index.m3u8"
+    
+  },
+          {
+  "movieName":"Fast & Feel Love",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-27/6332cc41e1798.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Fast&FeelLove/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Fast&FeelLove/index.m3u8"
+    
+  },
+          {
+  "movieName":"Kaduva",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-27/6332ad73868e1.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Kaduva/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Kaduva/index.m3u8"
+    
+  },
+          {
+  "movieName":"The Fallen Bridge",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-27/6332a6c9df001.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheFallenBridge/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheFallenBridge/index.m3u8"
+    
+  },
+          {
+  "movieName":"See The Sea",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-27/6332874ac5a2c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SeeTheSea/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SeeTheSea/index.m3u8"
+    
+  },
+          {
+  "movieName":"The Invitation",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-27/63326a1fdca18.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheInvitation/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheInvitation/index.m3u8"
+    
+  },
+         {
+  "movieName":"Secret Escort",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-26/63316a9f3b2e0.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SecretEscort/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SecretEscort/index.m3u8"
+    
+  }, 
+        {
+  "movieName":"Incantation",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-26/6331684373ca4.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Incantation/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Incantation/index.m3u8"
+    
+  },
+        {
+  "movieName":"Tees Maar Khan",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-26/63316162b3eb8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TeesMaarKhan/index.m3u8"
+    
+  },
+        {
+  "movieName":"Love Nonetheless",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-24/632eda60198d0.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/LoveNonetheless/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LoveNonetheless/index.m3u8"
+    
+  },
+        {
+  "movieName":"Cars on the Road",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-24/632ed73ec7512.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/CarsontheRoad/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CarsontheRoad/index.m3u8"
+    
+  },
+          {
+  "movieName":"Ramarao On Duty",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-24/632ecad46b904.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/RamaraoOnDuty/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/RamaraoOnDuty/index.m3u8"
+    
+  },
+          {
+  "movieName":"The Mermaid",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-24/632eb0310c096.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheMermaid/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheMermaid/index.m3u8"
+    
+  },
+          {
+  "movieName":"Vaashi",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-23/632d23b399d91.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Vaashi/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Vaashi/index.m3u8"
+    
+  },
+          {
+  "movieName":"Jogi",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-23/632d22ba98043.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Jogi/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Jogi/index.m3u8"
+    
+  },
+          {
+  "movieName":"Drifting Home",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-23/632d21dee05c9.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DriftingHome/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DriftingHome/index.m3u8"
+    
+  },
+            {
+  "movieName":"Snake Lady",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-23/632d20779cf3e.jpg",
+    "downloadLink":"hhttp://www.zegomovie.com/Videos/SnakeLady/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SnakeLady/index.m3u8"
+    
+  },
+        {
   "movieName":"Charlotte",
     "img":"http://zegomovie.com/Uploads/vod/2022-09-17/63259f4f18c81.jpg",
     "downloadLink":"http://www.zegomovie.com/Videos/Charlotte/index.m3u8",
