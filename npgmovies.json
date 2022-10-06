@@ -56,6 +56,7 @@
   }
 ]
 },
+   
    {
 
     "type": "2022",
@@ -493,7 +494,132 @@
 },
     
     
+   {
+
+    "type": "Tom Cruise Movies",
+    "movies": [
     
+{
+  "movieName":"Edge of Tomorrow",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8d58f223f1.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/EDGEofTomorrowLiveDieRepeat/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/EDGEofTomorrowLiveDieRepeat/index.m3u8"
+    
+  },
+ {
+  "movieName":"Mission Impossible Fallout",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-22/5d0dd20cb6614.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MissionImpossibleFallout/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MissionImpossibleFallout/index.m3u8"
+    
+  },
+{
+  "movieName":"Mission Impossible 3",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfe2fda4329d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MissionImpossible3/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MissionImpossible3/index.m3u8"
+    
+  },
+{
+  "movieName":"Knight and Day",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-23/5ce686d0dd988.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/KnightandDay/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/KnightandDay/index.m3u8"
+    
+  },
+{
+  "movieName":"Mission Impossible Rogue Nation",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff232be67ef.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MissionImpossibleRogueNation/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MissionImpossibleRogueNation/index.m3u8"
+    
+  },
+{
+  "movieName":"Jack Reacher Never Go Back",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfe13ab0c4de.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/JackReacherNeverGoBack/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/JackReacherNeverGoBack/index.m3u8"
+    
+  },
+{
+  "movieName":"Top Gun",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-08/5cfb45919c2d3.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TopGun/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TopGun/index.m3u8"
+    
+  },
+{
+  "movieName":"Mission Impossible 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff21b5f253e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MissionImpossible2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MissionImpossible2/index.m3u8"
+    
+  },
+{
+  "movieName":"Mission Impossible Ghost Protocol",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfe236f94236.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MissionImpossibleGhostProtocol/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MissionImpossibleGhostProtocol/index.m3u8"
+    
+  },
+{
+  "movieName":"Mission Impossible",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff22ea1523e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MissionImpossible/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MissionImpossible/index.m3u8"
+    
+  },
+{
+  "movieName":"Jack Reacher",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8ff4dde872.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/JackReacher/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/JackReacher/index.m3u8"
+    
+  },
+{
+  "movieName":"Minority report",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-07/5cf9f361d88a2.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Minorityreport/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Minorityreport/index.m3u8"
+    
+  },
+{
+  "movieName":"The Last Samurai",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-18/5d0863db34ae8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheLastSamurai/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheLastSamurai/index.m3u8"
+    
+  },
+{
+  "movieName":"Oblivion",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d07858cf249f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Oblivion/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Oblivion/index.m3u8"
+    
+  },
+{
+  "movieName":"American Made",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf635487a810.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/AmericanMade/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AmericanMade/index.m3u8"
+    
+  },
+{
+  "movieName":"Valkyrie",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-08/5cfb68cfe6688.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Valkyrie/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Valkyrie/index.m3u8"
+    
+  },
+{
+  "movieName":"Lions For Lambs",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-13/5d0201d8b7b67.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/LionsForLambs/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LionsForLambs/index.m3u8"
+    
+  }
+]
+},  
     
     {
 
