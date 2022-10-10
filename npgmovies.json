@@ -3500,6 +3500,34 @@
     "type": "Other",
     "movies": [
 {
+  "movieName":"Stand by me Doraemon 2",
+    "img":"http://zegomovie.com/Uploads/vod/2021-04-23/6082a2f16f614.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/StandbymeDoraemon2/StandbymeDoraemon2.mp4",
+    "playLink": "http://www.zegomovie.com/Videos/StandbymeDoraemon2/index.m3u8"
+    
+  },
+ {
+  "movieName":"Stand by Me Doraemon",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04e620673a1.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/StandbyMeDoraemon/StandbyMeDoraemon.mp4",
+    "playLink": "http://www.zegomovie.com/Videos/StandbyMeDoraemon/index.m3u8"
+    
+  },
+{
+  "movieName":"Doraemon the Movie Nobitas Treasure I",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-22/5d0dc96c5a2c4.jpg",
+    "downloadLink":"http://www.zegomovie.com/Download/DoraemontheMovieNobitasTreasureIsland/DoraemontheMovieNobitasTreasureIsland.mp4",
+    "playLink": "http://www.zegomovie.com/Videos/DoraemontheMovieNobitasTreasureIsland/index.m3u8"
+    
+  },
+{
+  "movieName":"Doraemon: Great Adventure in the Anta",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf4ab898acfb.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Doraemon/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Doraemon/index.m3u8"
+    
+  },
+{
   "movieName":"365days",
     "img":"https://upload.wikimedia.org/wikipedia/en/thumb/8/84/The_Next_365_Days.png/220px-The_Next_365_Days.png",
     "downloadLink":"https://mainserver.awsmovie.workers.dev/0:/2022%20Update%20Movies/0-9/365.Days.2020.WebRip.720P.mp4",
