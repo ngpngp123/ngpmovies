@@ -247,6 +247,174 @@
     
 {
 
+    "type": "Dwayne Johnson",
+    "movies": [
+    {
+  "movieName":"The Game Plan",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-08/5cfb3337b6e22.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheGamePlan/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheGamePlan/index.m3u8"
+    
+  },
+ {
+  "movieName":"EMPIRE STATE",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d075d3e6b241.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/EMPIRESTATE/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/EMPIRESTATE/index.m3u8"
+    
+  },
+{
+  "movieName":"PAIN & GAIN",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf60be30ff9d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PAIN&GAIN/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PAIN&GAIN/index.m3u8"
+    
+  },
+{
+  "movieName":"Skyscraper",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-14/5d03327f36f3e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Skyscraper/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Skyscraper/index.m3u8"
+    
+  },
+{
+  "movieName":"The Scorpion King",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-14/5d032ba73034b.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheScorpionKing/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheScorpionKing/index.m3u8"
+    
+  },
+{
+  "movieName":"Fighting With My Family",
+    "img":"http://zegomovie.com/Uploads/vod/2019-12-02/5de4d5fe28f0a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FightingWithMyFamily/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FightingWithMyFamily/index.m3u8"
+    
+  },
+{
+  "movieName":"Central Intelligence",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d074a97b98af.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/CentralIntelligence/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CentralIntelligence/index.m3u8"
+    
+  },
+{
+  "movieName":"SNITCH",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-27/5cebc5f824c6e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SNITCH/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SNITCH/index.m3u8"
+    
+  },
+ {
+  "movieName":"Jumanji: The Next Level",
+    "img":"http://zegomovie.com/Uploads/vod/2020-02-17/5e4a19e32867c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/JumanjiTheNextLevel/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/JumanjiTheNextLevel/index.m3u8"
+    
+  },
+{
+  "movieName":"Fast & Furious Presents: Hobbs & Shaw",
+    "img":"http://zegomovie.com/Uploads/vod/2019-10-28/5db698a607a14.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Fast&FuriousPresentsHobbs&Shaw/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Fast&FuriousPresentsHobbs&Shaw/index.m3u8"
+    
+  },
+{
+  "movieName":"Fast Furious 6",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff2095cc75d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FastFurious6/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FastFurious6/index.m3u8"
+    
+  },
+{
+  "movieName":"The Fate of the Furious",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff27cb9038f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheFateoftheFurious/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheFateoftheFurious/index.m3u8"
+    
+  },
+{
+  "movieName":"Rampage",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-12/5d00ea66ae581.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Rampage/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Rampage/index.m3u8"
+    
+  },
+{
+  "movieName":"Red Notice",
+    "img":"http://zegomovie.com/Uploads/vod/2021-12-28/61cad8a303af0.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/RedNotice/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/RedNotice/index.m3u8"
+    
+  },
+{
+  "movieName":"Doom",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-08/5cfb67ba458bf.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Doom/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Doom/index.m3u8"
+    
+  },
+ {
+  "movieName":"Furious 7",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff2c9d09916.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Furious7/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Furious7/index.m3u8"
+    
+  },
+{
+  "movieName":"Fast Five",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff1ff7273fe.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FastFive/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FastFive/index.m3u8"
+    
+  },
+{
+  "movieName":"Jungle Cruise",
+    "img":"http://zegomovie.com/Uploads/vod/2021-08-11/61138d585ed65.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/JungleCruise/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/JungleCruise/index.m3u8"
+    
+  },
+{
+  "movieName":"Hercules",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-18/5d0865adeef24.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Hercules/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Hercules/index.m3u8"
+    
+  },
+{
+  "movieName":"Journey 2 The Mysterious Island",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-24/5ce7d5b9ab559.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Journey2TheMysteriousIsland/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Journey2TheMysteriousIsland/index.m3u8"
+    
+  },
+{
+  "movieName":"Baywatch",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-10/5cfe2ebb52c93.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Baywatch/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Baywatch/index.m3u8"
+    
+  },
+{
+  "movieName":"San Andreas",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d07534bb04dc.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SanAndreas/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SanAndreas/index.m3u8"
+    
+  },
+ {
+  "movieName":"G.I. Joe- Retaliation",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-24/5ce7d47328357.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GIJoeRetaliation/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GIJoeRetaliation/index.m3u8"
+    
+  }
+]
+},
+    
+    {
+
     "type": "Shah Rukh Khan",
     "movies": [
     {
