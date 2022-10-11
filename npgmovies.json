@@ -1,6 +1,248 @@
 [
-    
+    {
 
+    "type": "Animation Selection",
+    "movies": [
+    {
+  "movieName":"Kung Fu Panda 1",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04bafd3591a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/KungFuPanda1/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/KungFuPanda1/index.m3u8"
+    
+  },
+ {
+  "movieName":"Kung Fu Panda 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04bb4430a18.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/KungFuPanda2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/KungFuPanda2/index.m3u8"
+    
+  },
+{
+  "movieName":"Kung Fu Panda 3",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04bb80b9c63.jpg",
+    "downloadLink":"hhttp://www.zegomovie.com/Videos/KungFuPanda3/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/KungFuPanda3/index.m3u8"
+    
+  },
+{
+  "movieName":"Frozen",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04a46adf7fe.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Frozen/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Frozen/index.m3u8"
+    
+  },
+{
+  "movieName":"Frozen II",
+    "img":"http://zegomovie.com/Uploads/vod/2020-01-06/5e12cba166e27.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FrozenII/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FrozenII/index.m3u8"
+    
+  },
+{
+  "movieName":"Sing",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04e6851436b.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Sing/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Sing/index.m3u8"
+    
+  },
+{
+  "movieName":"Sing 2",
+    "img":"http://zegomovie.com/Uploads/vod/2022-03-04/62218df365a69.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Sing2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Sing2/index.m3u8"
+    
+  },
+{
+  "movieName":"Cars",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-01/5cf2241897466.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Cars/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Cars/index.m3u8"
+    
+  },
+ {
+  "movieName":"Cars 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04953f602eb.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Cars2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Cars2/index.m3u8"
+    
+  },
+{
+  "movieName":"Cars 3",
+    "img":"http://zegomovie.com/Uploads/vod/2019-08-22/5d5e16e736dc4.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Cars3/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Cars3/index.m3u8"
+    
+  },
+{
+  "movieName":"Cars on the Road",
+    "img":"http://zegomovie.com/Uploads/vod/2022-09-24/632ed73ec7512.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/CarsontheRoad/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CarsontheRoad/index.m3u8"
+    
+  },
+{
+  "movieName":"Wall E",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d073d79e0a59.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/WallE/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/WallE/index.m3u8"
+    
+  },
+{
+  "movieName":"The Croods : Family Tree",
+    "img":"http://zegomovie.com/Uploads/vod/2021-12-28/61ca86b2d8587.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheCroodsFamilyTree/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheCroodsFamilyTree/index.m3u8"
+    
+  },
+{
+  "movieName":"Turbo",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d073c967330b.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Turbo/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Turbo/index.m3u8"
+    
+  },
+{
+  "movieName":"Up",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf61531bd0a5.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Up/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Up/index.m3u8"
+    
+  },
+ {
+  "movieName":"RATATOUILLE",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04df045b115.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/RATATOUILLE/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/RATATOUILLE/index.m3u8"
+    
+  },
+{
+  "movieName":"Inside Out",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04acdbed278.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/InsideOut/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/InsideOut/index.m3u8"
+    
+  },
+{
+  "movieName":"The Boss Baby",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d07395805556.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheBossBaby/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheBossBaby/index.m3u8"
+    
+  },
+{
+  "movieName":"The Boss Baby: Family Business",
+    "img":"http://zegomovie.com/Uploads/vod/2021-07-03/60e03a51e08ab.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheBossBabyFamilyBusiness/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheBossBabyFamilyBusiness/index.m3u8"
+    
+  },
+{
+  "movieName":"Coco",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf77a11e4090.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Coco/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Coco/index.m3u8"
+    
+  },
+{
+  "movieName":"Big Hero 6",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d0493d88c347.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BigHero6/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BigHero6/index.m3u8"
+    
+  },
+{
+  "movieName":"Soul",
+    "img":"http://zegomovie.com/Uploads/vod/2020-12-29/5fea8ed20f61e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Soul/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Soul/index.m3u8"
+    
+  },
+ {
+  "movieName":"Ferdinand",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf7946663b8b.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Ferdinand/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Ferdinand/index.m3u8"
+    
+  },
+{
+  "movieName":"Kubo and the Two Strings",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04bac20a995.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/KuboandtheTwoStrings/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/KuboandtheTwoStrings/index.m3u8"
+    
+  },
+{
+  "movieName":"Moana",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04c5eb8eb9a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Moana/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Moana/index.m3u8"
+    
+  },
+{
+  "movieName":"Smallfoot",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-25/5d11d11704e28.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Smallfoot/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Smallfoot/index.m3u8"
+    
+  
+    
+  },
+{
+  "movieName":"The Angry Birds Movie",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d0730ee8acec.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheAngryBirdsMovie/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheAngryBirdsMovie/index.m3u8"
+    
+  
+    
+  },
+{
+  "movieName":"The Angry Birds Movie 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-12-01/5de3a88125be6.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheAngryBirdsMovie2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheAngryBirdsMovie2/index.m3u8"
+    
+  
+    
+  },
+{
+  "movieName":"Ted The Lost Explorer",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04e01d8720e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TedTheLostExplorer/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TedTheLostExplorer/index.m3u8"
+    
+  
+    
+  },
+{
+  "movieName":"Despicable me 1",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d049932b4535.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DespicableMe1/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DespicableMe1/index.m3u8"
+    
+  
+    
+  },
+{
+  "movieName":"Despicable Me 3",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf4ae297ce6b.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DespicableMe3/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DespicableMe3/index.m3u8"
+    
+  
+    
+  },
+{
+  "movieName":"Minions: The Rise of Gru",
+    "img":"http://zegomovie.com/Uploads/vod/2022-08-17/62fcac968097f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MinionsTheRiseofGru/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MinionsTheRiseofGru/index.m3u8"
+    
+  
+    
+  }
+]
+},
     
     
 {
@@ -1658,279 +1900,6 @@
 
     "type": "Animation",
     "movies": [
-
-
-
-    {
-
-    "type": "Animation Selection",
-    "movies": [
-    {
-  "movieName":"Kung Fu Panda 1",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04bafd3591a.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/KungFuPanda1/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/KungFuPanda1/index.m3u8"
-
-  },
- {
-  "movieName":"Kung Fu Panda 2",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04bb4430a18.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/KungFuPanda2/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/KungFuPanda2/index.m3u8"
-
-  },
-{
-  "movieName":"Kung Fu Panda 3",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04bb80b9c63.jpg",
-    "downloadLink":"hhttp://www.zegomovie.com/Videos/KungFuPanda3/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/KungFuPanda3/index.m3u8"
-
-  },
-{
-  "movieName":"Frozen",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04a46adf7fe.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Frozen/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Frozen/index.m3u8"
-
-  },
-{
-  "movieName":"Frozen II",
-    "img":"http://zegomovie.com/Uploads/vod/2020-01-06/5e12cba166e27.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/FrozenII/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/FrozenII/index.m3u8"
-
-  },
-{
-  "movieName":"Sing",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04e6851436b.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Sing/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Sing/index.m3u8"
-
-  },
-{
-  "movieName":"Sing 2",
-    "img":"http://zegomovie.com/Uploads/vod/2022-03-04/62218df365a69.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Sing2/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Sing2/index.m3u8"
-
-  },
-{
-  "movieName":"Cars",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-01/5cf2241897466.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Cars/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Cars/index.m3u8"
-
-  },
- {
-  "movieName":"Cars 2",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04953f602eb.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Cars2/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Cars2/index.m3u8"
-
-  },
-{
-  "movieName":"Cars 3",
-    "img":"http://zegomovie.com/Uploads/vod/2019-08-22/5d5e16e736dc4.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Cars3/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Cars3/index.m3u8"
-
-  },
-{
-  "movieName":"Cars on the Road",
-    "img":"http://zegomovie.com/Uploads/vod/2022-09-24/632ed73ec7512.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/CarsontheRoad/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/CarsontheRoad/index.m3u8"
-
-  },
-{
-  "movieName":"Wall E",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d073d79e0a59.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/WallE/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/WallE/index.m3u8"
-
-  },
-{
-  "movieName":"The Croods : Family Tree",
-    "img":"http://zegomovie.com/Uploads/vod/2021-12-28/61ca86b2d8587.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/TheCroodsFamilyTree/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/TheCroodsFamilyTree/index.m3u8"
-
-  },
-{
-  "movieName":"Turbo",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d073c967330b.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Turbo/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Turbo/index.m3u8"
-
-  },
-{
-  "movieName":"Up",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-04/5cf61531bd0a5.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Up/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Up/index.m3u8"
-
-  },
- {
-  "movieName":"RATATOUILLE",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04df045b115.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/RATATOUILLE/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/RATATOUILLE/index.m3u8"
-
-  },
-{
-  "movieName":"Inside Out",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04acdbed278.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/InsideOut/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/InsideOut/index.m3u8"
-
-  },
-{
-  "movieName":"The Boss Baby",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d07395805556.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/TheBossBaby/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/TheBossBaby/index.m3u8"
-
-  },
-{
-  "movieName":"The Boss Baby: Family Business",
-    "img":"http://zegomovie.com/Uploads/vod/2021-07-03/60e03a51e08ab.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/TheBossBabyFamilyBusiness/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/TheBossBabyFamilyBusiness/index.m3u8"
-
-  },
-{
-  "movieName":"Coco",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf77a11e4090.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Coco/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Coco/index.m3u8"
-
-  },
-{
-  "movieName":"Big Hero 6",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d0493d88c347.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/BigHero6/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/BigHero6/index.m3u8"
-
-  },
-{
-  "movieName":"Soul",
-    "img":"http://zegomovie.com/Uploads/vod/2020-12-29/5fea8ed20f61e.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Soul/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Soul/index.m3u8"
-
-  },
- {
-  "movieName":"Ferdinand",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf7946663b8b.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Ferdinand/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Ferdinand/index.m3u8"
-
-  },
-{
-  "movieName":"Kubo and the Two Strings",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04bac20a995.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/KuboandtheTwoStrings/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/KuboandtheTwoStrings/index.m3u8"
-
-  },
-{
-  "movieName":"Moana",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04c5eb8eb9a.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Moana/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Moana/index.m3u8"
-
-  },
-{
-  "movieName":"Smallfoot",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-25/5d11d11704e28.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/Smallfoot/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/Smallfoot/index.m3u8"
-
-
-
-  },
-{
-  "movieName":"The Angry Birds Movie",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d0730ee8acec.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/TheAngryBirdsMovie/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/TheAngryBirdsMovie/index.m3u8"
-
-
-
-  },
-{
-  "movieName":"The Angry Birds Movie 2",
-    "img":"http://zegomovie.com/Uploads/vod/2019-12-01/5de3a88125be6.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/TheAngryBirdsMovie2/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/TheAngryBirdsMovie2/index.m3u8"
-
-
-
-  },
-{
-  "movieName":"Ted The Lost Explorer",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04e01d8720e.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/TedTheLostExplorer/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/TedTheLostExplorer/index.m3u8"
-
-
-
-  },
-{
-  "movieName":"Despicable me 1",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d049932b4535.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/DespicableMe1/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/DespicableMe1/index.m3u8"
-
-
-
-  },
-{
-  "movieName":"Despicable Me 3",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf4ae297ce6b.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/DespicableMe3/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/DespicableMe3/index.m3u8"
-
-
-
-  },
-{
-  "movieName":"Minions: The Rise of Gru",
-    "img":"http://zegomovie.com/Uploads/vod/2022-08-17/62fcac968097f.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/MinionsTheRiseofGru/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/MinionsTheRiseofGru/index.m3u8"
-
-
-
-  },
-
-{
-  "movieName":"Despicable me 1",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d049932b4535.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/DespicableMe1/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/DespicableMe1/index.m3u8"
-    
-  
-    
-  },
-{
-  "movieName":"Despicable Me 3",
-    "img":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf4ae297ce6b.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/DespicableMe3/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/DespicableMe3/index.m3u8"
-    
-  
-    
-  },
-{
-  "movieName":"Minions: The Rise of Gru",
-    "img":"http://zegomovie.com/Uploads/vod/2022-08-17/62fcac968097f.jpg",
-    "downloadLink":"http://www.zegomovie.com/Videos/MinionsTheRiseofGru/index.m3u8",
-    "playLink": "http://www.zegomovie.com/Videos/MinionsTheRiseofGru/index.m3u8"
-    
-  
-    
-  },
            {
   "movieName":"Cars on the Road",
     "img":"http://zegomovie.com/Uploads/vod/2022-09-24/632ed73ec7512.jpg",
