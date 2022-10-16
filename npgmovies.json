@@ -415,6 +415,104 @@
     
     {
 
+    "type": "SylvesterStallone",
+    "movies": [
+    {
+  "movieName":"Escape Plan The Extractors",
+    "img":"http://zegomovie.com/Uploads/vod/2019-10-28/5db66ca8aa8b7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/EscapePlanTheExtractors/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/EscapePlanTheExtractors/index.m3u8"
+    
+  },
+ {
+  "movieName":"Creed 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-27/5d144baf106f1.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Creed2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Creed2/index.m3u8"
+    
+  },
+{
+  "movieName":"The Specialist",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-12/5d00ce71744ca.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheSpecialist/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheSpecialist/index.m3u8"
+    
+  },
+{
+  "movieName":"Creed",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf4ee4a29187.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Creed/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Creed/index.m3u8"
+    
+  },
+{
+  "movieName":"Escape Plan 2 Hades",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-13/5d021e1a60118.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/EscapePlan2Hades/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/EscapePlan2Hades/index.m3u8"
+    
+  },
+{
+  "movieName":"Rambo V Last Blood",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-07/5cfa0bbb161c0.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/RamboVLastBlood/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/RamboVLastBlood/index.m3u8"
+    
+  },
+{
+  "movieName":"Bullet To The Head",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8bd4b6a2c1.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BulletToTheHead/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BulletToTheHead/index.m3u8"
+    
+  },
+{
+  "movieName":"Assassins",
+    "img":"http://zegomovie.com/Uploads/vod/2020-01-20/5e25339cb6bcc.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Assassins/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Assassins/index.m3u8"
+    
+  },
+ {
+  "movieName":"Rambo",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-27/5cebb808ca391.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Rambo/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Rambo/index.m3u8"
+    
+  },
+{
+  "movieName":"The Expendables 3",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff243e730ec.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheExpendables3/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheExpendables3/index.m3u8"
+    
+  },
+{
+  "movieName":"The Expendables 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff23f98d34e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheExpendables2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheExpendables2/index.m3u8"
+    
+  },
+{
+  "movieName":"The Expendables 1",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-11/5cff23b4a2426.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheExpendables1/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheExpendables1/index.m3u8"
+    
+  },
+{
+  "movieName":"Grudge Match",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-06/5cf8e79722687.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GrudgeMatch/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GrudgeMatch/index.m3u8"
+    
+  }
+]
+},
+    
+    {
+
     "type": "Shah Rukh Khan",
     "movies": [
     {
