@@ -3,6 +3,13 @@
 
     "type": "2022",
     "movies": [
+            {
+  "movieName":"The Fabric",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-18/634e2b17d3c5f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheFabric/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheFabric/index.m3u8"
+    
+  },
                {
   "movieName":"Laal Singh Chaddha",
     "img":"http://zegomovie.com/Uploads/vod/2022-10-17/634d07d31e476.jpg",
