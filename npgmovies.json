@@ -460,6 +460,56 @@
 
     "type": "Animation Selection",
     "movies": [
+             {
+  "movieName":"The Good Dinosaur",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d0739bc69b49.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheGoodDinosaur/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheGoodDinosaur/index.m3u8"
+    
+  },
+             {
+  "movieName":"The Lion King",
+    "img":"http://zegomovie.com/Uploads/vod/2019-12-01/5de3ad3b6aa04.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheLionKing/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheLionKing/index.m3u8"
+    
+  },
+             {
+  "movieName":"The Lion King",
+    "img":"http://zegomovie.com/Uploads/vod/2020-01-28/5e2fe19b83175.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheLionKing/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheLionKing/index.m3u8"
+    
+  },
+             {
+  "movieName":"Bolt",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04946b2c606.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Bolt/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Bolt/index.m3u8"
+    
+  },
+             {
+  "movieName":"Maya The Bee",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04be5b18d45.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MayaTheBee/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MayaTheBee/index.m3u8"
+    
+  },
+             {
+  "movieName":"Maya the Bee The Honey Games",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-13/5d01d6bb6d22f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MayatheBeeTheHoneyGames/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MayatheBeeTheHoneyGames/index.m3u8"
+    
+  },
+             {
+  "movieName":"Tom and Jerry",
+    "img":"http://zegomovie.com/Uploads/vod/2021-03-24/605b06bd48c38.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TomandJerry2021/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TomandJerry2021/index.m3u8"
+    
+  },
+      
     {
   "movieName":"Kung Fu Panda 1",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04bafd3591a.jpg",
@@ -696,6 +746,20 @@
     "playLink": "http://www.zegomovie.com/Videos/MinionsTheRiseofGru/index.m3u8"
     
   
+    
+  },
+                {
+  "movieName":"Minions",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-03/5cf49e8414260.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Minions/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Minions/index.m3u8"
+    
+  },
+                {
+  "movieName":"Minions 2",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04c41e76a6f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Minion2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Minion2/index.m3u8"
     
   }
 ]
