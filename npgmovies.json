@@ -3,6 +3,13 @@
 
     "type": "2022",
     "movies": [
+               {
+  "movieName":"Liger",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-20/6350f7f426a5d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Liger/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Liger/index.m3u8"
+    
+  },
             {
   "movieName":"6/45",
     "img":"http://zegomovie.com/Uploads/vod/2022-10-19/634fbc00e6237.jpg",
