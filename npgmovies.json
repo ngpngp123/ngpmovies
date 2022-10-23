@@ -3,6 +3,55 @@
 
     "type": "2022",
     "movies": [
+            {
+  "movieName":"Vendhu Thanindhathu Kaadu",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-22/6353bbc375f5b.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/VendhuThanindhathuKaadu/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/VendhuThanindhathuKaadu/index.m3u8"
+    
+  },
+            {
+  "movieName":"Gangster Gangaraju",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-22/6353aecbaa2bc.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GangsterGangaraju/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GangsterGangaraju/index.m3u8"
+    
+  },
+            {
+  "movieName":"Ammu",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-22/6353a964e5031.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Ammu/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Ammu/index.m3u8"
+    
+  },
+            {
+  "movieName":"Hellraiser",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-22/6353a7f0c488a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Hellraiser/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Hellraiser/index.m3u8"
+    
+  },
+            {
+  "movieName":"Theerppu",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-22/63536911860c3.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Theerppu/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Theerppu/index.m3u8"
+    
+  },
+           {
+  "movieName":"Karthikeya 2",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-22/63534fce7add6.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Karthikeya2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Karthikeya2/index.m3u8"
+    
+  },
+             {
+  "movieName":"Jana Gana Mana",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-21/63525f2d9f3a0.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/JanaGanaMana/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/JanaGanaMana/index.m3u8"
+    
+  },
                  {
   "movieName":"Raksha Bandhan",
     "img":"http://zegomovie.com/Uploads/vod/2022-10-20/6350b93bdee71.jpg",
