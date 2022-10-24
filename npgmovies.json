@@ -525,19 +525,7 @@
   }
 ]
 },
-        {
-
-    "type": "ဝိပါက ဇာတ်လမ်းတွဲ",
-    "movies": [
-             {
-  "movieName":"ဝိပါက အပိုင်း(၁)",
-    "img":"http://static.pyoneplay.com/static/video/1662466917.jpg",
-    "downloadLink":"https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6057949479001/24f7a979-c6f4-4946-bd5a-dbe906622576/0c769ded-157c-4de1-b4bc-2ba3a3e9b951/10s/rendition.m3u8?fastly_token=NjM1NjU3YWZfOTliZDI3MGY3M2QxOWY2Nzg0NDFhYjUxODI4MGNiNGJlNGFjOTYzMjc3YjFjNTQ0NGE2MjU4MDhiMWMwM2NkOQ%3D%3D",
-    "playLink": "https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/6057949479001/24f7a979-c6f4-4946-bd5a-dbe906622576/0c769ded-157c-4de1-b4bc-2ba3a3e9b951/10s/rendition.m3u8?fastly_token=NjM1NjU3YWZfOTliZDI3MGY3M2QxOWY2Nzg0NDFhYjUxODI4MGNiNGJlNGFjOTYzMjc3YjFjNTQ0NGE2MjU4MDhiMWMwM2NkOQ%3D%3D"
-    
-  }
-]
-},
+  
     
     {
 
