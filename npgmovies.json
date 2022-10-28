@@ -3,6 +3,55 @@
 
     "type": "2022",
     "movies": [
+                          {
+  "movieName":"Hero",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-28/635bae4b3d313.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Hero/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Hero/index.m3u8"
+    
+  },
+                          {
+  "movieName":"Mike",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-28/635bac8e88162.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Mike/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Mike/index.m3u8"
+    
+  },
+                          {
+  "movieName":"The Curse of Bridge Hollow",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-28/635baa6724877.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheCurseofBridgeHollow/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheCurseofBridgeHollow/index.m3u8"
+    
+  },
+                          {
+  "movieName":"Perfect Blue",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-28/635ba935ebd85.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PerfectBlue/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PerfectBlue/index.m3u8"
+    
+  },
+                          {
+  "movieName":"Mutant Tiger",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-28/635ba7fb7ca9a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MutantTiger/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MutantTiger/index.m3u8"
+    
+  },
+                          {
+  "movieName":"The School for Good and Evil",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-28/635ba377204d2.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheSchoolforGoodandEvil/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheSchoolforGoodandEvil/index.m3u8"
+    
+  },
+                          {
+  "movieName":"Team Black Hawk",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-28/635b9e7ad27cd.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TeamBlackHawk/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TeamBlackHawk/index.m3u8"
+    
+  },
                     {
   "movieName":"20th Century Girl",
     "img":"http://zegomovie.com/Uploads/vod/2022-10-28/635b8cee0de48.jpg",
@@ -1087,6 +1136,13 @@
 
     "type": "Dwayne Johnson",
     "movies": [
+                          {
+  "movieName":"Black Adam",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-26/6358fd6a5bfa5.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BlackAdam/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BlackAdam/index.m3u8"
+    
+  },
     {
   "movieName":"The Game Plan",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-08/5cfb3337b6e22.jpg",
