@@ -3,6 +3,77 @@
 
     "type": "2022",
     "movies": [
+              {
+  "movieName":"Wolf Pack",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-27/6359f667dfdb5.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/WolfPack/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/WolfPack/index.m3u8"
+    
+  },
+           {
+  "movieName":"Over the Sky",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-27/635a5c581ce23.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/OvertheSky/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/OvertheSky/index.m3u8"
+    
+  },
+           {
+  "movieName":"Jujutsu Kaisen 0",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-27/635a586ec9b37.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/JujutsuKaisen0/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/JujutsuKaisen0/index.m3u8"
+    
+  },
+           {
+  "movieName":"Masking Threshold",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-27/635a48a873938.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MaskingThreshold/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MaskingThreshold/index.m3u8"
+    
+  },
+            
+                 {
+  "movieName":"Thailand Only",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-27/635a471564fbb.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ThailandOnly/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ThailandOnly/index.m3u8"
+    
+  },
+                 {
+  "movieName":"Lord Bunlue",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-27/6359f4854f550.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/LordBunlue/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LordBunlue/index.m3u8"
+    
+  },
+                 {
+  "movieName":"MK Ultra",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-27/6359f2de3f775.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MKUltra/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MKUltra/index.m3u8"
+    
+  },
+                 {
+  "movieName":"Judaa Hoke Bhi",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-27/6359ee356625b.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/JuddaHokeBhi/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/JuddaHokeBhi/index.m3u8"
+    
+  },
+                 {
+  "movieName":"Bujji… Ila Raa",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-27/6359e6bc45428.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BujjillaRaa/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BujjillaRaa/index.m3u8"
+    
+  },
+                 {
+  "movieName":"A Murder Erased",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-27/6359e5ad3e5c9.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/AMurderErased/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AMurderErased/index.m3u8"
+    
+  },
                     {
   "movieName":"Athena",
     "img":"http://zegomovie.com/Uploads/vod/2022-10-26/635906b666d2d.jpg",
