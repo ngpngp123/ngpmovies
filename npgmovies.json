@@ -3,6 +3,55 @@
 
     "type": "2022",
     "movies": [
+                              {
+  "movieName":"All Quieton the Western Front",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-29/635cfe7c3bb1f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/AllQuietontheWesternFront/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AllQuietontheWesternFront/index.m3u8"
+    
+  },
+                              {
+  "movieName":"Ponniyin Selvan: Part I",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-29/635cfce0760ef.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PonniyinSelvanPartI/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PonniyinSelvanPartI/index.m3u8"
+    
+  },
+                              {
+  "movieName":"Naane Varuvean",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-29/635cfbe9a4876.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/NaaneVaruvean/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/NaaneVaruvean/index.m3u8"
+    
+  },
+                              {
+  "movieName":"Deadstream",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-29/635cfac3c4b97.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Deadstream/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Deadstream/index.m3u8"
+    
+  },
+                              {
+  "movieName":"The Chalk Line (a.k.a) Jaula",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-29/635cfa12bea30.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheChalkLineakaJaula/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheChalkLineakaJaula/index.m3u8"
+    
+  },
+                              {
+  "movieName":"Mia and Me : The Hero of Centopia",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-29/635cf8548563e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MiaandMeTheHeroofCentopia/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MiaandMeTheHeroofCentopia/index.m3u8"
+    
+  },
+                              {
+  "movieName":"Catherine Called Birdy",
+    "img":"http://zegomovie.com/Uploads/vod/2022-10-29/635cf06083238.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/CatherineCalledBirdy/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CatherineCalledBirdy/index.m3u8"
+    
+  },
                           {
   "movieName":"Hero",
     "img":"http://zegomovie.com/Uploads/vod/2022-10-28/635bae4b3d313.jpg",
