@@ -791,6 +791,48 @@
 
     "type": "Animation Selection",
     "movies": [
+           {
+  "movieName":"Ice Age 1",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04a8f4c4bab.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/IceAge1/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/IceAge1/index.m3u8"
+    
+  },
+           {
+  "movieName":"Ice Age 2",
+    "img":"http://zegomovie.com/Uploads/vod/2020-01-28/5e2fb7d3d359d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/IceAge2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/IceAge2/index.m3u8"
+    
+  },
+           {
+  "movieName":"The Ice Age Adventures of Buck Wild",
+    "img":"http://zegomovie.com/Uploads/vod/2022-02-18/620f5e56ac552.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheIceAgeAdventuresofBuckWild/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheIceAgeAdventuresofBuckWild/index.m3u8"
+    
+  },
+           {
+  "movieName":"Ice Age 4",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04aa6409be7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/IceAge4/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/IceAge4/index.m3u8"
+    
+  },
+           {
+  "movieName":"Ice Age Collision Course",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04aca11cf95.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/IceAgeCollisionCourse/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/IceAgeCollisionCourse/index.m3u8"
+    
+  },
+           {
+  "movieName":"Ice Age: The Meltdown",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04a931d0519.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/IceAge2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/IceAge2/index.m3u8"
+    
+  },
              {
   "movieName":"The Good Dinosaur",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d0739bc69b49.jpg",
