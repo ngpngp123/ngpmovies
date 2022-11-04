@@ -3,6 +3,41 @@
 
     "type": "2022",
     "movies": [
+                        {
+  "movieName":"The Ghost",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-03/636391bb9dcf2.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheGhost/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheGhost/index.m3u8"
+    
+  },
+                        {
+  "movieName":"The Lair",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-03/63638cb09461c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheLair/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheLair/index.m3u8"
+    
+  },
+                        {
+  "movieName":"I am a SWAT woman",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-03/63638b94a7b15.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/IamaSWATwoman/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/IamaSWATwoman/index.m3u8"
+    
+  },
+                        {
+  "movieName":"Iké Boys",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-03/63638a468c445.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/IkeBoys/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/IkeBoys/index.m3u8"
+    
+  },
+                        {
+  "movieName":"Shin Ultraman",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-02/63623e061b2ca.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ShinUltraman/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ShinUltraman/index.m3u8"
+    
+  },
                       {
   "movieName":"Josee, the Tiger and the Fish",
     "img":"http://zegomovie.com/Uploads/vod/2022-11-01/6360c88f0dfba.jpg",
