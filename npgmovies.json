@@ -3,6 +3,28 @@
 
     "type": "2022",
     "movies": [
+  
+                    {
+  "movieName":"The Woman King",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-04/6364e374d0965.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheWomanKing/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheWomanKing/index.m3u8"
+    
+  },
+                    {
+  "movieName":"Hounded",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-04/6364dca0d17b1.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Hounded/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Hounded/index.m3u8"
+    
+  },
+                    {
+  "movieName":"A Chance Encounter",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-04/6364d81d7db19.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/AChanceEncounter/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AChanceEncounter/index.m3u8"
+    
+  },
                         {
   "movieName":"The Ghost",
     "img":"http://zegomovie.com/Uploads/vod/2022-11-03/636391bb9dcf2.jpg",
