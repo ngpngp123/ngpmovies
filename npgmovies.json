@@ -3,6 +3,48 @@
 
     "type": "2022",
     "movies": [
+                          {
+  "movieName":"Brahmāstra Part One: Shiva",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-05/63662b34a59a0.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BrahmastraPartOneShiva/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BrahmastraPartOneShiva/index.m3u8"
+    
+  },
+                          {
+  "movieName":"Enola Holmes 2",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-05/6366293bc3051.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/EnolaHolmes2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/EnolaHolmes2/index.m3u8"
+    
+  },
+                          {
+  "movieName":"DAEMUGA",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-05/6366288d6b29c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DAEMUGA/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DAEMUGA/index.m3u8"
+    
+  },
+                          {
+  "movieName":"My Father Is a Playboy",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-05/6365d48e6aa38.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MyFatherIsaPlayboy/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MyFatherIsaPlayboy/index.m3u8"
+    
+  },
+                          {
+  "movieName":"To Leslie",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-05/6365d3448ea24.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ToLeslie/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ToLeslie/index.m3u8"
+    
+  },
+                          {
+  "movieName":"Smile",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-04/6364e792e5ed6.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Smile/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Smile/index.m3u8"
+    
+  },
   
                     {
   "movieName":"The Woman King",
