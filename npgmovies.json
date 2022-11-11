@@ -3,6 +3,69 @@
 
     "type": "2022",
     "movies": [
+                            {
+  "movieName":"See How They Run",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-10/636cbfb8cb8ea.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SeeHowTheyRun/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SeeHowTheyRun/index.m3u8"
+    
+  },
+                            {
+  "movieName":"Hanuman Shadow Master",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-10/636c6176c7257.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/HanumanShadowMaster/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/HanumanShadowMaster/index.m3u8"
+    
+  },
+                            {
+  "movieName":"Indian Pink",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-09/636b8003d4a3d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/IndianPink/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/IndianPink/index.m3u8"
+    
+  },
+                            {
+  "movieName":"Satan’s Slaves 2: Communion",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-09/636b7f191a8f3.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SatansSlaves2Communion/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SatansSlaves2Communion/index.m3u8"
+    
+  },
+                            {
+  "movieName":"The Independent",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-09/636b7bfec1f49.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheIndependent/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheIndependent/index.m3u8"
+    
+  },
+                            {
+  "movieName":"Tadka",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-09/636b7b7b1a7ca.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Tadka/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Tadka/index.m3u8"
+    
+  },
+                            {
+  "movieName":"Come Back Home",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-09/636b7471433cc.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ComeBackHome/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ComeBackHome/index.m3u8"
+    
+  },
+                            {
+  "movieName":"Pathonpatham Noottandu",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-09/636b732d25f81.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PathonpathamNoottandu/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PathonpathamNoottandu/index.m3u8"
+    
+  },
+                            {
+  "movieName":"Fearless Love",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-08/636a28c6a4de8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FearlessLove/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FearlessLove/index.m3u8"
+    
+  },
                           {
   "movieName":"Brahmāstra Part One: Shiva",
     "img":"http://zegomovie.com/Uploads/vod/2022-11-05/63662b34a59a0.jpg",
