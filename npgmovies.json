@@ -3,6 +3,83 @@
 
     "type": "2022",
     "movies": [
+                                    {
+  "movieName":"Don’t Look Up",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-11/636e1872cd443.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DontLookUp/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DontLookUp/index.m3u8"
+    
+  },
+                                    {
+  "movieName":"Nostalgia",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-11/636e1259058e5.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Nostalgia/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Nostalgia/index.m3u8"
+    
+  },
+                                    {
+  "movieName":"TheSystem",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-11/636e05ebd5bb7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheSystem/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheSystem/index.m3u8"
+    
+  },
+                                    {
+  "movieName":"Selena Gomez: My Mind & Me",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-11/636dd445562ff.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SelenaGomezMyMind&Me/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SelenaGomezMyMind&Me/index.m3u8"
+    
+  },
+                                    {
+  "movieName":"Life Is Beautiful",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-11/636dd32e9ee01.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/LifeIsBeautiful/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LifeIsBeautiful/index.m3u8"
+    
+  },
+                                    {
+  "movieName":"The Independent",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-09/636b7bfec1f49.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheIndependent/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheIndependent/index.m3u8"
+    
+  },
+                                    {
+  "movieName":"Grave of the Fireflies",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-11/636dbc3078d14.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GraveoftheFireflies/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GraveoftheFireflies/index.m3u8"
+    
+  },
+                                    {
+  "movieName":"Beating Heart",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-11/636dbb2ef3a50.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BeatingHeart/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BeatingHeart/index.m3u8"
+    
+  },
+                                    {
+  "movieName":"R.I.P.D. 2: Rise of the Damned",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-11/636db67881af5.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/RIPD2RiseoftheDamned/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/RIPD2RiseoftheDamned/index.m3u8"
+    
+  },
+                                    {
+  "movieName":"Once Upon a Time in the Northeast",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-11/636db556eae39.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/OnceUponaTimeintheNortheast/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/OnceUponaTimeintheNortheast/index.m3u8"
+    
+  },
+                                    {
+  "movieName":"Nenu Meeku Baaga Kavalsinavaadini",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-11/636db23b59ac9.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/NenuMeekuBaagaKavalsinavaadini/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/NenuMeekuBaagaKavalsinavaadini/index.m3u8"
+    
+  },
                             {
   "movieName":"See How They Run",
     "img":"http://zegomovie.com/Uploads/vod/2022-11-10/636cbfb8cb8ea.jpg",
@@ -981,6 +1058,13 @@
 
     "type": "Animation Selection",
     "movies": [
+                                        {
+  "movieName":"Grave of the Fireflies",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-11/636dbc3078d14.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GraveoftheFireflies/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GraveoftheFireflies/index.m3u8"
+    
+  },
            {
   "movieName":"Ice Age 1",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-15/5d04a8f4c4bab.jpg",
@@ -1628,6 +1712,13 @@
 
     "type": "Leonardo Dicaprio",
     "movies": [
+                                       {
+  "movieName":"Don’t Look Up",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-11/636e1872cd443.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DontLookUp/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DontLookUp/index.m3u8"
+    
+  },
     {
   "movieName":"The Wolf of Wall Street",
     "img":"http://zegomovie.com/Uploads/vod/2019-05-27/5ceba6513920f.jpg",
@@ -2353,7 +2444,7 @@
   
     {
 
-    "type": "Jhonny Depp Movies",
+    "type": "Johnny Depp Movies",
     "movies": [
     
 {
