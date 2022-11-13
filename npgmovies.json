@@ -3,6 +3,55 @@
 
     "type": "2022",
     "movies": [
+                                         {
+  "movieName":"Satan’s Slaves 2: Communion",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-09/636b7f191a8f3.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SatansSlaves2Communion/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SatansSlaves2Communion/index.m3u8"
+    
+  },
+                                         {
+  "movieName":"Leio",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-12/636f222fc06c4.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Leio/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Leio/index.m3u8"
+    
+  },
+                                         {
+  "movieName":"Sinam",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-12/636f2160d4d14.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Sinam/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Sinam/index.m3u8"
+    
+  },
+                                         {
+  "movieName":"DAD IS HERE",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-12/636f2079ceb9d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DADISHERE/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DADISHERE/index.m3u8"
+    
+  },
+                                         {
+  "movieName":"Next Exit",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-12/636f1f9d09047.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/NextExit/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/NextExit/index.m3u8"
+    
+  },
+                                         {
+  "movieName":"Deborah",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-12/636f1e64d8fb4.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Deborah/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Deborah/index.m3u8"
+    
+  },
+                                         {
+  "movieName":"Raymond & Ray",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-12/636f1d56130d2.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Raymond&Ray/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Raymond&Ray/index.m3u8"
+    
+  },
                                     {
   "movieName":"Don’t Look Up",
     "img":"http://zegomovie.com/Uploads/vod/2022-11-11/636e1872cd443.jpg",
