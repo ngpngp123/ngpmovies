@@ -3,6 +3,111 @@
 
     "type": "2022",
    "movies": [
+                                             {
+  "movieName":"MatKilau",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-15/637322f04d3da.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MatKilau/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MatKilau/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"LostBullet2",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-15/63732113acdad.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/LostBullet2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LostBullet2/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"TheTakeover",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-14/63720aa407d41.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheTakeover/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheTakeover/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"Tad, the Lost Explorer and the Emeral...",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-14/6372056627347.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TadtheLostExplorerandtheEmeraldTablet/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TadtheLostExplorerandtheEmeraldTablet/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"My Father’s Dragon",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-14/6371febaa0835.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MyFathersDragon/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MyFathersDragon/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"Medieval",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-14/6371fd195be6b.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Medieval/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Medieval/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"My Policeman",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-14/6371fbef9e8c7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MyPoliceman/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MyPoliceman/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"Overdose",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-14/6371fab708719.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Overdose/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Overdose/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"Monica, O My Darling",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-14/6371f9126f465.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MonicaOMyDarling/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MonicaOMyDarling/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"Old People",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-14/6371f80890778.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/OldPeople/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/OldPeople/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"Mandrake",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-14/6371f670d1728.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Mandrake/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Mandrake/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"Blaze",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-14/6371f48818367.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Blaze/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Blaze/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"Rorschach",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-14/6371f37d5e762.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Rorschach/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Rorschach/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"On the Edge",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-14/6371f1b59c1a7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/OntheEdge/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/OntheEdge/index.m3u8"
+    
+  },
+                                             {
+  "movieName":"Satria Dewa: Gatotkaca",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-14/6371e71648ec8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SatriaDewaGatotkaca/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SatriaDewaGatotkaca/index.m3u8"
+    
+  },
                                          {
   "movieName":"Satan’s Slaves 2: Communion",
     "img":"http://zegomovie.com/Uploads/vod/2022-11-09/636b7f191a8f3.jpg",
