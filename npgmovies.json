@@ -3,6 +3,41 @@
 
     "type": "2022",
    "movies": [
+                                              {
+  "movieName":"Preman",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-16/6374b028dc0b7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Preman/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Preman/index.m3u8"
+    
+  },
+                                              {
+  "movieName":"The Minute You Wake Up Dead",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-15/6373562f7f6d7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheMinuteYouWakeUpDead/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheMinuteYouWakeUpDead/index.m3u8"
+    
+  },
+                                              {
+  "movieName":"Poker Face",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-16/6374ad4692edf.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/PokerFace/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PokerFace/index.m3u8"
+    
+  },
+                                              {
+  "movieName":"Cherry Magic! THE MOVIE",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-16/6374ae9c4dd13.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/CherryMagicTHEMOVIE/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CherryMagicTHEMOVIE/index.m3u8"
+    
+  },
+                                              {
+  "movieName":"Amsterdam",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-15/63735a3062fd7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Amsterdam/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Amsterdam/index.m3u8"
+    
+  },
                                              {
   "movieName":"MatKilau",
     "img":"http://zegomovie.com/Uploads/vod/2022-11-15/637322f04d3da.jpg",
