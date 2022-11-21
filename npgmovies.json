@@ -3,6 +3,90 @@
 
     "type": "2022",
    "movies": [
+                                                  {
+  "movieName":"The Soccer Football Movie",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-21/637af5bb2eabd.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheSoccerFootballMovie/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheSoccerFootballMovie/index.m3u8"
+    
+  },
+                                                  {
+  "movieName":"Tom and Jerry Snowman’s Land",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-19/6378a91da69b9.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TomandJerrySnowmansLand/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TomandJerrySnowmansLand/index.m3u8"
+    
+  },
+                                                  {
+  "movieName":"Blue’s Big City Adventure",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-19/6378a073ceffe.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BluesBigCityAdventure/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BluesBigCityAdventure/index.m3u8"
+    
+  },
+                                                  {
+  "movieName":"Black Panther: Wakanda Forever",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-19/63789c224934f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BlackPantherWakandaForever/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BlackPantherWakandaForever/index.m3u8"
+    
+  },
+                                                  {
+  "movieName":"The Lost King",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-19/63788609dcef9.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheLostKing/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheLostKing/index.m3u8"
+    
+  },
+                                                  {
+  "movieName":"Ticket to Paradise",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-19/637884778d09d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TickettoParadise/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TickettoParadise/index.m3u8"
+    
+  },
+                                                {
+  "movieName":"Bar Fight",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-19/637883018780f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BarFight/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BarFight/index.m3u8"
+    
+  },
+                                                {
+  "movieName":"American Murderer",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-19/637881a8418bc.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/AmericanMurderer/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AmericanMurderer/index.m3u8"
+    
+  },
+                                                {
+  "movieName":"Weathering with You",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-19/63787eacab01f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/WeatheringwithYou/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/WeatheringwithYou/index.m3u8"
+    
+  },
+                                                {
+  "movieName":"The Lost Lotteries",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-18/637754a023bfe.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheLostLotteries/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheLostLotteries/index.m3u8"
+    
+  },
+                                                {
+  "movieName":"Falling for Christmas",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-18/63775212e9f60.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/FallingforChristmas/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FallingforChristmas/index.m3u8"
+    
+  },
+                                                {
+  "movieName":"Cristiano Ronaldo interview – Piers M..",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-18/6377507346ba4.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/CristianoRonaldointerviewPiersMorganUncen/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CristianoRonaldointerviewPiersMorganUncen/index.m3u8"
+    
+  },
                                               {
   "movieName":"Preman",
     "img":"http://zegomovie.com/Uploads/vod/2022-11-16/6374b028dc0b7.jpg",
