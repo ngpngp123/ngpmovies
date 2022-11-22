@@ -89,17 +89,17 @@
     
   },
 {
-  "movieName":"0",
+  "movieName":"Thukhuma 1",
     "img":"0",
-    "downloadLink":"0",
-    "playLink": "0"
+    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941738&extension=ts&play_token=vNCEivKfQm",
+    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941738&extension=ts&play_token=vNCEivKfQm"
     
   },
 {
-  "movieName":"0",
+  "movieName":"Thukhuma 2",
     "img":"0",
-    "downloadLink":"0",
-    "playLink": "0"
+    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941739&extension=ts&play_token=EsigBOh3mS",
+    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941739&extension=ts&play_token=EsigBOh3mS"
     
   }
 ]
