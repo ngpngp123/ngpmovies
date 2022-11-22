@@ -13,8 +13,8 @@
                                                   {
   "movieName":"Argentina Vs Saudi Arabia",
     "img":"https://digitalhub.fifa.com/transform/5c8cef88-ad95-4e69-84f5-afeae91f5595/Brand_Protection_FIFA-World-Cup-Official-Trophy-P4",
-    "downloadLink":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/22/42/240834/720p.m3u8",
-    "playLink": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/22/42/240834/720p.m3u8"
+    "downloadLink":"https://cnda11.ahdafsoccer.com/UpFiles/2022/11/22/42/240835/0.m3u8",
+    "playLink": "https://cnda11.ahdafsoccer.com/UpFiles/2022/11/22/42/240835/720p.m3u8"
     
   },
 {
@@ -58,8 +58,27 @@
 
     "type": "Channels",
    "movies": [
-                                                  
-  
+ {
+  "movieName":"Canal+Zatlan",
+    "img":"0",
+    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941759&extension=ts&play_token=UBKsRZi5v3",
+    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941759&extension=ts&play_token=UBKsRZi5v3"
+    
+  },                                                 
+  {
+  "movieName":"Canal+ChaTate",
+    "img":"",
+    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941757&extension=ts&play_token=532yioqS0t",
+    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941757&extension=ts&play_token=532yioqS0t"
+    
+  },
+{
+  "movieName":"Canal+Pututu",
+    "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0GbBVWg-qnJCDWryU4o6PRcgx6f0G801CiA&usqp=CAU",
+    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941756&extension=ts&play_token=2Tioi8umkG",
+    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941756&extension=ts&play_token=2Tioi8umkG"
+    
+  },
 {
   "movieName":"Mahar",
     "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
