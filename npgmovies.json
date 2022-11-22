@@ -61,10 +61,10 @@
     
   },
  {
-  "movieName":"0",
+  "movieName":"Fortune Tv",
     "img":"0",
-    "downloadLink":"0",
-    "playLink": "0"
+    "downloadLink":"http://183.89.246.119:8881/play/a082/index.m3u8",
+    "playLink": "http://183.89.246.119:8881/play/a082/index.m3u8"
     
   },
 {
