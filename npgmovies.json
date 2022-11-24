@@ -176,6 +176,41 @@
     "downloadLink":"https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8",
     "playLink": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
     
+  },
+         {
+  "movieName":"Bein Max 1 HD",
+    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
+    "downloadLink":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852",
+    "playLink": "http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852"
+    
+  },
+         {
+  "movieName":"Bein Max 2 HD",
+    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
+    "downloadLink":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853",
+    "playLink": "http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853"
+    
+  },
+         {
+  "movieName":"Bein Max 3 HD",
+    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
+    "downloadLink":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854",
+    "playLink": "http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43854"
+    
+  },
+         {
+  "movieName":"Bein Max 4 HD",
+    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
+    "downloadLink":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855",
+    "playLink": "http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43855"
+    
+  },
+         {
+  "movieName":"Bein ENG 1 HD",
+    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
+    "downloadLink":"http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/330",
+    "playLink": "http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/330"
+    
   }
 ]
 },
