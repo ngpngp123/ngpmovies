@@ -100,60 +100,25 @@
 
     "type": "Channels",
    "movies": [
-{
-  "movieName":"Canal+Sport 1",
+         {
+  "movieName":"MM Music",
     "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
-    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941755&extension=ts&play_token=EsigBOh3mS",
-    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941755&extension=ts&play_token=EsigBOh3mS"
+    "downloadLink":"https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8",
+    "playLink": "https://l1-xl1.myanmarnet.com/relay/music/ch1/stream_hi/index.m3u8"
     
   },
-{
-  "movieName":"Canal+Sport 2",
+        {
+  "movieName":"Channel K",
     "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
-    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941754&extension=ts&play_token=EsigBOh3mS",
-    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941754&extension=ts&play_token=EsigBOh3mS"
+    "downloadLink":"https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_mobile/index.m3u8",
+    "playLink": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_mobile/index.m3u8"
     
   },
-{
-  "movieName":"Canal+Susan",
+       {
+  "movieName":"Mizzima",
     "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
-    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941762&extension=ts&play_token=LHlRd2ubEO",
-    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941762&extension=ts&play_token=LHlRd2ubEO"
-    
-  },
-{
-  "movieName":"Canal+Maemadi",
-    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
-    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941761&extension=ts&play_token=joS3isYhoY",
-    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941761&extension=ts&play_token=joS3isYhoY"
-    
-  },
-{
-  "movieName":"Canal+Action",
-    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
-    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941760&extension=ts&play_token=8gPEDmimXy",
-    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941760&extension=ts&play_token=8gPEDmimXy"
-    
-  },
- {
-  "movieName":"Canal+Zatlan",
-    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
-    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941759&extension=ts&play_token=UBKsRZi5v3",
-    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:A1:AF:94&stream=941759&extension=ts&play_token=UBKsRZi5v3"
-    
-  },                                                 
-  {
-  "movieName":"Canal+ChaTate",
-    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
-    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941757&extension=ts&play_token=532yioqS0t",
-    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941757&extension=ts&play_token=532yioqS0t"
-    
-  },
-{
-  "movieName":"Canal+Pututu",
-    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
-    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941756&extension=ts&play_token=2Tioi8umkG",
-    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941756&extension=ts&play_token=2Tioi8umkG"
+    "downloadLink":"https://mizzima-live.b-cdn.net/live2_720.m3u8",
+    "playLink": "https://mizzima-live.b-cdn.net/live2_720.m3u8"
     
   },
 {
@@ -189,20 +154,6 @@
     "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
     "downloadLink":"https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8",
     "playLink": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
-    
-  },
-{
-  "movieName":"Thukhuma 1",
-    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
-    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941738&extension=ts&play_token=vNCEivKfQm",
-    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941738&extension=ts&play_token=vNCEivKfQm"
-    
-  },
-{
-  "movieName":"Thukhuma 2",
-    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
-    "downloadLink":"http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941739&extension=ts&play_token=EsigBOh3mS",
-    "playLink": "http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:67:EB:60&stream=941739&extension=ts&play_token=EsigBOh3mS"
     
   }
 ]
