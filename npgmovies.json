@@ -128,6 +128,13 @@
 
     "type": "Channels",
    "movies": [
+         {
+  "movieName":"DVB",
+    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
+    "downloadLink":"https://stream-01.sg1.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0hUMrXT6urBU27tUWaYkp3XFTEhNTHufr5HxAjIr_Klc)/dm/3/x8e61qj/s/live-1.m3u8",
+    "playLink": "https://stream-01.sg1.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0hUMrXT6urBU27tUWaYkp3XFTEhNTHufr5HxAjIr_Klc)/dm/3/x8e61qj/s/live-1.m3u8"
+    
+  },
        {
   "movieName":"Mizzima",
     "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
