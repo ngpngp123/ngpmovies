@@ -129,7 +129,35 @@
     "type": "Channels",
    "movies": [
       
-         {
+        {
+  "movieName":"VTV 2",
+    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
+    "downloadLink":"http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8",
+    "playLink": "http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8"
+    
+  },
+{
+  "movieName":"VTV 3",
+    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
+    "downloadLink":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8",
+    "playLink": "http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
+    
+  },
+{
+  "movieName":"VTV 5",
+    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
+    "downloadLink":"http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8",
+    "playLink": "http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8"
+    
+  },
+{
+  "movieName":"VTV 6",
+    "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
+    "downloadLink":"http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8",
+    "playLink": "http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8"
+    
+  },
+ {
   "movieName":"DVB",
     "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
     "downloadLink":"https://stream-01.sg1.dailymotion.com/sec(-SVy60QQ6sKn1Jfj-v9Q0hUMrXT6urBU27tUWaYkp3XFTEhNTHufr5HxAjIr_Klc)/dm/3/x8e61qj/s/live-1.m3u8",
