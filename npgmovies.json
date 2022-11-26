@@ -149,20 +149,7 @@
 
     "type": "Channels",
    "movies": [
-      {
-  "movieName":"Soco SD",
-    "img":"https://media-exp1.licdn.com/dms/image/C4E03AQG-Gj__6EnbKA/profile-displayphoto-shrink_800_800/0/1649553297191?e=2147483647&v=beta&t=bq6tI9H0IxhdBQc3H_MxrXDCB0WOpy4eldro8baB7a8",
-    "downloadLink":"0",
-    "playLink": "https://pullalilive.livnvess.com/live/stream-168740_ld.m3u8?auth_key=1668354390-0-0-ce616bf1cd1fc8df048ada8987649361"
-    
-  },
-    {
-  "movieName":"Soco HD",
-    "img":"https://media-exp1.licdn.com/dms/image/C4E03AQG-Gj__6EnbKA/profile-displayphoto-shrink_800_800/0/1649553297191?e=2147483647&v=beta&t=bq6tI9H0IxhdBQc3H_MxrXDCB0WOpy4eldro8baB7a8",
-    "downloadLink":"0",
-    "playLink": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1666735588-0-0-121d7b0693693bfa8e4e34abe7cf2887"
-    
-  },    
+      
  {
   "movieName":"DVB",
     "img":"https://image.winudf.com/v2/image1/Y29tLmFzaWFkZXZodWIueXRfaWNvbl8xNTY0MTU2NTkxXzA4Ng/icon.png?w=&fakeurl=1",
