@@ -461,6 +461,125 @@
 
     "type": "2022",
    "movies": [
+{
+  "movieName":"The Good Witch of Christmas",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-29/6385d481417c8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheGoodWitchofChristmas/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheGoodWitchofChristmas/index.m3u8"
+    
+  },
+{
+  "movieName":"Operation Seawolf",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-29/6385ce6c30b5c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/OperationSeawolf/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/OperationSeawolf/index.m3u8"
+    
+  },
+{
+  "movieName":"Beyond the Universe",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-26/6381d35699628.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/BeyondtheUniverse/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BeyondtheUniverse/index.m3u8"
+    
+  },
+{
+  "movieName":"West Bound Inn",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-26/6381cecdb8e38.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/WestboundInn/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/WestboundInn/index.m3u8"
+    
+  },
+{
+  "movieName":"Chup",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-26/6381d014900ff.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Chup/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Chup/index.m3u8"
+    
+  },
+{
+  "movieName":"Till",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-26/6381cd7494a95.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Till/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Till/index.m3u8"
+    
+  },
+{
+  "movieName":"Emily",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-25/63809896cef3c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Emily/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Emily/index.m3u8"
+    
+  },
+{
+  "movieName":"Christmas With You",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-25/6380944673eef.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ChristmaswithYou/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ChristmaswithYou/index.m3u8"
+    
+  },
+{
+  "movieName":"After Sun",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-23/637df712c1b70.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Aftersun/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Aftersun/index.m3u8"
+    
+  },
+{
+  "movieName":"I'm Totally Fine",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-24/637f3612cb59d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ImTotallyFine/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ImTotallyFine/index.m3u8"
+    
+  },
+{
+  "movieName":"New Gods",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-24/637ed17c838a4.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/NewGodsYangJian/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/NewGodsYangJian/index.m3u8"
+    
+  },
+{
+  "movieName":"The Wonder",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-23/637ddde0cebf9.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheWonder/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheWonder/index.m3u8"
+    
+  },
+{
+  "movieName":"Good Deal",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-24/637ecfd664c93.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GoodDeal/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GoodDeal/index.m3u8"
+    
+  },
+{
+  "movieName":"Waiting for Bojangles",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-23/637df5a80de36.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/WaitingforBojangles/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/WaitingforBojangles/index.m3u8"
+    
+  },
+{
+  "movieName":"Manifest West",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-23/637de35742404.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ManifestWest/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ManifestWest/index.m3u8"
+    
+  },
+{
+  "movieName":"KANTARA",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-25/638083dfdd72d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Kantara/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Kantara/index.m3u8"
+    
+  },
+{
+  "movieName":"THE DOLL 3",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-25/638082809ec3d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheDoll3/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheDoll3/index.m3u8"
+    
+  },
                                                   {
   "movieName":"The Soccer Football Movie",
     "img":"http://zegomovie.com/Uploads/vod/2022-11-21/637af5bb2eabd.jpg",
