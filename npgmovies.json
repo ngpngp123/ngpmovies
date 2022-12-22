@@ -228,6 +228,321 @@
     "type": "2022",
    "movies": [
 {
+  "movieName":"Under Wraps 2",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-22/63a3e6ea18b6b.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/UnderWraps2/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/UnderWraps2/index.m3u8"
+    
+  },
+{
+  "movieName":"SongBird",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-22/63a40368efbf9.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Songbird/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Songbird/index.m3u8"
+    
+  },
+{
+  "movieName":"Repeat",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-05/638d9adb8f93f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Repeat/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Repeat/index.m3u8"
+    
+  },
+{
+  "movieName":"Sinam",
+    "img":"http://zegomovie.com/Uploads/vod/2022-11-12/636f2160d4d14.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Sinam/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Sinam/index.m3u8"
+    
+  },
+{
+  "movieName":"3000 Years of Longing",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-22/63a3d919d3aca.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/ThreeThousandYearsofLonging/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ThreeThousandYearsofLonging/index.m3u8"
+    
+  },
+{
+  "movieName":"Thank God",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-13/639849594688f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ThankGod/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ThankGod/index.m3u8"
+    
+  },
+{
+  "movieName":"Luckiest Girl Alive",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-19/63a04019f2aee.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Luckiest%20Girl%20Alive1/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Luckiest%20Girl%20Alive1/index.m3u8"
+    
+  },
+{
+  "movieName":"CAUSE WAY",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-20/63a1268dc5029.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Causeway/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Causeway/index.m3u8"
+    
+  },
+{
+  "movieName":"BARBARIAN",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-20/63a1282da1390.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Barbarian/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Barbarian/index.m3u8"
+    
+  },
+{
+  "movieName":"PIGGY",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-20/63a1328630e44.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Poggy/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Poggy/index.m3u8"
+    
+  },
+{
+  "movieName":"Thiruchitrambalam",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-20/63a13e30bdd47.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Thiruchitrambalam/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Thiruchitrambalam/index.m3u8"
+    
+  },
+{
+  "movieName":"Hansan : Rising Dragon",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-20/63a17f59eace7.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Hansan%20Rising%20Dragon/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Hansan%20Rising%20Dragon/index.m3u8"
+    
+  },
+{
+  "movieName":"Significant Other",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-20/63a184984cb55.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/SignificantOther/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SignificantOther/index.m3u8"
+    
+  },
+{
+  "movieName":"Guardians of Time",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-20/63a186d446bbc.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Guardians%20of%20Time/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Guardians%20of%20Time/index.m3u8"
+    
+  },
+{
+  "movieName":"THE INHABITANT",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-20/63a189edbb346.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/The%20Inhabitant/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/The%20Inhabitant/index.m3u8"
+    
+  },
+{
+  "movieName":"The Assistant",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-20/63a18def88bb6.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/The%20Assistant/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/The%20Assistant/index.m3u8"
+    
+  },
+{
+  "movieName":"Adult Swim Yule Log",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-20/63a18fe9dd79d.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/AdultSwimYuleLog/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AdultSwimYuleLog/index.m3u8"
+    
+  },
+{
+  "movieName":"MEMORY",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-20/63a1936a1f96d.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Memory/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Memory/index.m3u8"
+    
+  },
+{
+  "movieName":"Mr. Harrigan's Phone",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a26bebcd598.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Mr.%20Harrigan's%20Phone/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Mr.%20Harrigan's%20Phone/index.m3u8"
+    
+  },
+{
+  "movieName":"The Quiet Girl",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2718162fee.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/The%20Quiet%20Girl/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/The%20Quiet%20Girl/index.m3u8"
+    
+  },
+{
+  "movieName":"The Enforcer",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a272f618082.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/The%20Enforcer/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/The%20Enforcer/index.m3u8"
+    
+  },
+{
+  "movieName":"Halloween Ends",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2749d6ff98.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Halloween%20Ends/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Halloween%20Ends/index.m3u8"
+    
+  },
+{
+  "movieName":"Section 8",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a27b53283db.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Section.8/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Section.8/index.m3u8"
+    
+  },
+{
+  "movieName":"Greed",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a27d44dc98a.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Greed/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Greed/index.m3u8"
+    
+  },
+{
+  "movieName":"Ditto",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a28d4884455.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Ditto/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Ditto/index.m3u8"
+    
+  },
+{
+  "movieName":"God's Country",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a28f4866274.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/God'sCountry/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/God'sCountry/index.m3u8"
+    
+  },
+{
+  "movieName":"Raymond & Ray",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2909b0841e.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Raymond&Ray/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Raymond&Ray/index.m3u8"
+    
+  },
+{
+  "movieName":"Hawa",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a298fd08e63.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Hawa/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Hawa/index.m3u8"
+    
+  },
+{
+  "movieName":"Mindcage",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2a6cadac8a.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Mindcage/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Mindcage/index.m3u8"
+    
+  },
+{
+  "movieName":"Detective Knight",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2a7a39eb63.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/DetectiveKnightRedemption/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DetectiveKnightRedemption/index.m3u8"
+    
+  },
+{
+  "movieName":"Sadistic : The Exorcism of Lily Deckert",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2a9818411c.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/SadisticTheExorcismOfLilyDeckert/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SadisticTheExorcismOfLilyDeckert/index.m3u8"
+    
+  },
+{
+  "movieName":"Something in the Dirt",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2aa78bd04d.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/SomethingintheDirt/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SomethingintheDirt/index.m3u8"
+    
+  },
+{
+  "movieName":"Ghosts of Christmas Always",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2ab7565430.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/GhostsofChristmasAlways/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GhostsofChristmasAlways/index.m3u8"
+    
+  },
+{
+  "movieName":"Girl at the Window",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2b59bdf9b3.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Girl%20at%20the%20Window/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Girl%20at%20the%20Window/index.m3u8"
+    
+  },
+{
+  "movieName":"Snow Day",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2c968c1974.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Snow%20Day/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Snow%20Day/index.m3u8"
+    
+  },
+{
+  "movieName":"Yaksha : Ruthless Operations",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2d31676f85.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/YakshaRuthlessOperations/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/YakshaRuthlessOperations/index.m3u8"
+    
+  },
+{
+  "movieName":"Homecoming",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2d6ca1d5ef.JPG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Home%20Coming/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Home%20Coming/index.m3u8"
+    
+  },
+{
+  "movieName":"Samaritan",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2d9ccbb167.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Samaritan/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Samaritan/index.m3u8"
+    
+  },
+{
+  "movieName":"Beast",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2df6c11688.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Beast/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Beast/index.m3u8"
+    
+  },
+{
+  "movieName":"Carter",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2e18541b99.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Carter/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Carter/index.m3u8"
+    
+  },
+{
+  "movieName":"Govinda Naam Mera",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-21/63a2e4f579f5c.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Govinda%20Naam%20Mera/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Govinda%20Naam%20Mera/index.m3u8"
+    
+  },
+{
+  "movieName":"The Big 4",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-22/63a3c79aedb7b.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/The%20Big%204/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/The%20Big%204/index.m3u8"
+    
+  },
+{
+  "movieName":"Breaking",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-22/63a3d17595b37.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Breaking/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Breaking/index.m3u8"
+    
+  },
+{
+  "movieName":"Bridge of the Doomed",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-22/63a3da414fcaf.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/BridgeoftheDoomed/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BridgeoftheDoomed/index.m3u8"
+    
+  },
+{
+  "movieName":"Ghani",
+    "img":"http://zegomovie.com/Uploads/vod/2022-05-13/627de4fa9e7b8.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Ghani/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Ghani/index.m3u8"
+    
+  },
+{
   "movieName":"Troll",
     "img":"http://zegomovie.com/Uploads/vod/2022-12-05/638d9c8e7c47a.JPG",
     "downloadLink":"http://www.zegomovie.com/Videos/Troll/index.m3u8",
