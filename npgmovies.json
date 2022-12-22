@@ -228,6 +228,13 @@
     "type": "2022",
    "movies": [
 {
+  "movieName":"Savage Salvation",
+    "img":"http://zegomovie.com/Uploads/vod/2022-12-06/638f05b737ccc.JPG",
+    "downloadLink":"http://www.zegomovie.com/Videos/SavageSalvation/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SavageSalvation/index.m3u8"
+    
+  },
+{
   "movieName":"Under Wraps 2",
     "img":"http://zegomovie.com/Uploads/vod/2022-12-22/63a3e6ea18b6b.PNG",
     "downloadLink":"http://www.zegomovie.com/Videos/UnderWraps2/index.m3u8",
