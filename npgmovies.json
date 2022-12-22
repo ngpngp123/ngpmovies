@@ -2,6 +2,13 @@
      {
         "type": "Users Request Movies",
    "movies": [
+           {
+  "movieName":"A Thousand Words(2012)",
+    "img":"https://m.media-amazon.com/images/M/MV5BMTAzODAwODkwMjBeQTJeQWpwZ15BbWU3MDI4MDE3NDc@._V1_.jpg",
+    "downloadLink":"https://ko.htay2.workers.dev/0:/Movies%20&%20Series/Movies/-A-Z/A/(CM)%20A.Thousand.Words.2012.mp4",
+    "playLink": "https://ko.htay2.workers.dev/0:/Movies%20&%20Series/Movies/-A-Z/A/(CM)%20A.Thousand.Words.2012.mp4"
+    
+  },
         {
   "movieName":"Now You See Me",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-18/5d08689da34e3.jpg",
