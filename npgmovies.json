@@ -130,7 +130,7 @@
 {
   "movieName":"The Greatest Beer Run Ever",
     "img":"http://zegomovie.com/Uploads/vod/2022-12-23/63a5165bb5ffc.PNG",
-    "downloadLink":http://www.zegomovie.com/Videos/TheGreatestBeerRunEver/index.m3u8",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheGreatestBeerRunEver/index.m3u8",
     "playLink": "http://www.zegomovie.com/Videos/TheGreatestBeerRunEver/index.m3u8"
     
   },
