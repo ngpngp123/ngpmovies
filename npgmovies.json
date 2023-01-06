@@ -2,6 +2,13 @@
      {
         "type": "Users Request Movies",
    "movies": [
+        {
+  "movieName":"Avatar: The Way of Water (2022)",
+    "img":"http://mycinema.asia/image//20221227/avatar_13666.jpg",
+    "downloadLink":"http://media1.mycinema.asia/media/films/Avatar.The.Way.of.Water.2022.360p/Avatar.The.Way.of.Water.2022.360p.m3u8",
+    "playLink": "http://media1.mycinema.asia/media/films/Avatar.The.Way.of.Water.2022.360p/Avatar.The.Way.of.Water.2022.360p.m3u8"
+    
+  },
 {
   "movieName":"Whitney,a look Back",
     "img":"http://zegomovie.com/Uploads/vod/2022-05-11/627b817ca9e73.jpg",
