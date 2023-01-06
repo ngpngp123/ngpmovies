@@ -85,6 +85,76 @@
 
     "type": "2022",
    "movies": [
+          {
+  "movieName":"The African Desperate",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-04/63b53c7523fbf.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheAfricanDesperate/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheAfricanDesperate/index.m3u8"
+    
+  },
+         {
+  "movieName":"Stalked Within",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-04/63b528b01ee72.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/StalkedWithin/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/StalkedWithin/index.m3u8"
+    
+  },
+         {
+  "movieName":"The Menu",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-04/63b507352ba6a.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheMenu/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheMenu/index.m3u8"
+    
+  },
+         {
+  "movieName":"Gatta Kusthi",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-04/63b505c067aa7.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/GattaKusthi/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GattaKusthi/index.m3u8"
+    
+  },
+         {
+  "movieName":"Don’t Fuck in the Woods 2",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-04/63b50255abf0d.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/DontFuckInTheWoods/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DontFuckInTheWoods/index.m3u8"
+    
+  },
+         {
+  "movieName":"Razzennest",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-03/63b3c8c802410.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Razzennest/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Razzennest/index.m3u8"
+    
+  },
+         {
+  "movieName":"Arrest The Wicked",
+    "img":"https://www.themoviedb.org/t/p/w500/yzAq8h2uV5wRR8IRUkqJzlmcSSN.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ArrestTheWicked/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ArrestTheWicked/index.m3u8"
+    
+  },
+         {
+  "movieName":"Dictionary",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-03/63b3ba3df35f2.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Dictionary/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Dictionary/index.m3u8"
+    
+  },
+         {
+  "movieName":"Arthur, Malédiction",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-03/63b3b779f3b01.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/ArthurMalediction/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ArthurMalediction/index.m3u8"
+    
+  },
+         {
+  "movieName":"Capatin",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-03/63b3adec9f7b4.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Capatin/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Capatin/index.m3u8"
+    
+  },
         {
   "movieName":"Summering",
     "img":"http://zegomovie.com/Uploads/vod/2023-01-02/63b2a54f024c6.PNG",
