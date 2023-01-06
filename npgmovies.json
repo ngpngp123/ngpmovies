@@ -85,6 +85,41 @@
 
     "type": "2022",
    "movies": [
+        {
+  "movieName":"Summering",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-02/63b2a54f024c6.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Summering/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Summering/index.m3u8"
+    
+  },
+        {
+  "movieName":"Live Scream",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-02/63b29a6feeade.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/LiveScream/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LiveScream/index.m3u8"
+    
+  },
+        {
+  "movieName":"Mili",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-02/63b298742b094.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Mili/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Mili/index.m3u8"
+    
+  },
+        {
+  "movieName":"White Noise",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-02/63b2697c94a93.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/WhiteNoise/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/WhiteNoise/index.m3u8"
+    
+  },
+        {
+  "movieName":"Devil’s Workshop",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-02/63b26148f23b5.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/DevilsWorkshop/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DevilsWorkshop/index.m3u8"
+    
+  },
 {
   "movieName":"Who Invited Them",
     "img":"http://zegomovie.com/Uploads/vod/2022-12-24/63a675160223e.png",
