@@ -86,6 +86,41 @@
     "type": "2022",
    "movies": [
           {
+  "movieName":"Maigret",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-05/63b684704b616.JPG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Maigret/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Maigret/index.m3u8"
+    
+  },
+            {
+  "movieName":"Lullaby",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-05/63b65b2fcf84a.JPG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Lullaby/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Lullaby/index.m3u8"
+    
+  },
+            {
+  "movieName":"Churuli",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-05/63b64f728496b.JPG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Churuli/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Churuli/index.m3u8"
+    
+  },
+            {
+  "movieName":"Last Film Show",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-05/63b6500c6c313.JPG",
+    "downloadLink":"http://www.zegomovie.com/Videos/LastFilmShow/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LastFilmShow/index.m3u8"
+    
+  },
+            {
+  "movieName":"Aaja Mexico Challiye",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-04/63b52a4f9d970.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/AajaMexicoChaliye/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AajaMexicoChaliye/index.m3u8"
+    
+  },
+          {
   "movieName":"The African Desperate",
     "img":"http://zegomovie.com/Uploads/vod/2023-01-04/63b53c7523fbf.png",
     "downloadLink":"http://www.zegomovie.com/Videos/TheAfricanDesperate/index.m3u8",
