@@ -86,6 +86,83 @@
     "type": "2022",
    "movies": [
           {
+  "movieName":"Avatar: The Way of Water (2022)",
+    "img":"http://mycinema.asia/image//20221227/avatar_13666.jpg",
+    "downloadLink":"http://media1.mycinema.asia/media/films/Avatar.The.Way.of.Water.2022.360p/Avatar.The.Way.of.Water.2022.360p.m3u8",
+    "playLink": "http://media1.mycinema.asia/media/films/Avatar.The.Way.of.Water.2022.360p/Avatar.The.Way.of.Water.2022.360p.m3u8"
+    
+  },
+           {
+  "movieName":"Marcel the Shell with Shoes On",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-06/63b7c95484f8c.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/MarceltheShellwithShoesOn/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MarceltheShellwithShoesOn/index.m3u8"
+    
+  },
+           {
+  "movieName":"Argentina, 1985",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-06/63b7c8137f2a7.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Argentina1985/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Argentina1985/index.m3u8"
+    
+  },
+           {
+  "movieName":"Bank Robbers: The Last Great Heist",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-06/63b7c6893a764.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/BankRobbersTheLastGreatHeist/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BankRobbersTheLastGreatHeist/index.m3u8"
+    
+  },
+           {
+  "movieName":"BARDO, False Chronicle of a Handful o...",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-06/63b7c5b101bbc.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/BARDOFalseChronicleofaHandfulofTruths/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BARDOFalseChronicleofaHandfulofTruths/index.m3u8"
+    
+  },
+           {
+  "movieName":"Goodnight Mommy",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-06/63b7c256b52cc.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/GoodnightMommy/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GoodnightMommy/index.m3u8"
+    
+  },
+           {
+  "movieName":"Terror Train",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-06/63b7ac4a10d8b.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/TerrorTrain/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TerrorTrain/index.m3u8"
+    
+  },
+           {
+  "movieName":"Embrassment of will",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-06/63b796ff7e6ee.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/EmbrassmentOfWill/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/EmbrassmentOfWill/index.m3u8"
+    
+  },
+           {
+  "movieName":"Wolf Pack",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-06/63b791b60c099.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/WolvesPack/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/WolvesPack/index.m3u8"
+    
+  },
+           {
+  "movieName":"The Battle at Lake Changjin II",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-05/63b69e4b2be7b.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheBattleatLakeChangjinII/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheBattleatLakeChangjinII/index.m3u8"
+    
+  },
+           {
+  "movieName":"Menteur",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-05/63b68b6b64ed6.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/NaturalBornLiar/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/NaturalBornLiar/index.m3u8"
+    
+  },
+          {
   "movieName":"Maigret",
     "img":"http://zegomovie.com/Uploads/vod/2023-01-05/63b684704b616.JPG",
     "downloadLink":"http://www.zegomovie.com/Videos/Maigret/index.m3u8",
