@@ -92,6 +92,198 @@
 
     "type": "2022",
    "movies": [
+        
+           {
+  "movieName":"Dragon and Tiger",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-08/63ba2a3f28b0e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/DragonAndTiger/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DragonAndTiger/index.m3u8"
+    
+  },
+            {
+  "movieName":"Grandpa Tea",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-08/63ba27b460ff7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GrandpaTea/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GrandpaTea/index.m3u8"
+    
+  },
+            {
+  "movieName":"A Night at the Kindergarten",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b93c012492b.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/ANightAtTheKindergarten/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ANightAtTheKindergarten/index.m3u8"
+    
+  },
+            {
+  "movieName":"The New Painted Skin",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b932347c9e2.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheNewPaintedSkin/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheNewPaintedSkin/index.m3u8"
+    
+  },
+            {
+  "movieName":"Get In The Dark",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b911988afd8.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/GetInTheDark/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GetInTheDark/index.m3u8"
+    
+  },
+            {
+  "movieName":"The Conqueror",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b9109d59e5c.JPG",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheConqueror/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheConqueror/index.m3u8"
+    
+  },
+            {
+  "movieName":"Minions & More 1",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b90f8473456.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/MinionsandMoreVolume11/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MinionsandMoreVolume11/index.m3u8"
+    
+  },
+             {
+  "movieName":"LEGO Star Wars Summer Vacation",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b90e76cd861.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/LEGOStarWarsSummerVacation/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LEGOStarWarsSummerVacation/index.m3u8"
+    
+  },
+             {
+  "movieName":"Spoiler Alert",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b90e3370039.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/SpoilerAlert/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SpoilerAlert/index.m3u8"
+    
+  },
+             {
+  "movieName":"Dragon Ball Super: Super Hero",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b902a15a2a2.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/DragonBallSuperSuperHero/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DragonBallSuperSuperHero/index.m3u8"
+    
+  },
+             {
+  "movieName":"Cryo",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b9017724d3e.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Cryo/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Cryo/index.m3u8"
+    
+  },
+             {
+  "movieName":"Puss in Boots:The Last Wish",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b9004df2c59.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/PussinBootsTheLastWish/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PussinBootsTheLastWish/index.m3u8"
+    
+  },
+             {
+  "movieName":"Uunchai",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b8eeac22930.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Uunchai/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Uunchai/index.m3u8"
+    
+  },
+             {
+  "movieName":"Fighter",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b8f51f327f4.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Fighter/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Fighter/index.m3u8"
+    
+  },
+             {
+  "movieName":"No Limit",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b8ef5996a60.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/NoLimit/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/NoLimit/index.m3u8"
+    
+  },
+             {
+  "movieName":"Abandoned",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b8ebc55fc26.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Abandoned/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Abandoned/index.m3u8"
+    
+  },
+             {
+  "movieName":"A Banquet",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b8e8c33390d.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/ABanquet/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ABanquet/index.m3u8"
+    
+  },
+        
+           {
+  "movieName":"Poikkal Kuthirai",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b8db3ce86c4.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/PoikkalKuthirai/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PoikkalKuthirai/index.m3u8"
+    
+  },
+        
+           {
+  "movieName":"Dobaaraa",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b8da45801a1.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Dobaaraa/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Dobaaraa/index.m3u8"
+    
+  },
+        
+           {
+  "movieName":"Goodbye",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b8d97dc550e.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/GoodBye/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GoodBye/index.m3u8"
+    
+  },
+        
+           {
+  "movieName":"Prince",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-07/63b8d8713ae7d.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Prince/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Prince/index.m3u8"
+    
+  },
+        
+           {
+  "movieName":"Pinocchio",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-06/63b7ff6fabf8c.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Pinocchio/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Pinocchio/index.m3u8"
+    
+  },
+        
+           {
+  "movieName":"Dead Bride",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-06/63b7ed299864f.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/DeadBride/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DeadBride/index.m3u8"
+    
+  },
+        
+           {
+  "movieName":"Guillermo del Toro’s Pinocchio",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-06/63b7eb3f3fa91.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/GuillermodelTorosPinocchio/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GuillermodelTorosPinocchio/index.m3u8"
+    
+  },
+        
+           {
+  "movieName":"The House",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-06/63b7ea6b0f33f.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheHouse/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheHouse/index.m3u8"
+    
+  },
+        
+           {
+  "movieName":"Terror Trips",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-06/63b7e56d8f1af.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TerrorTrips/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TerrorTrips/index.m3u8"
+    
+  },
           {
   "movieName":"Avatar: The Way of Water (2022)",
     "img":"http://mycinema.asia/image//20221227/avatar_13666.jpg",
