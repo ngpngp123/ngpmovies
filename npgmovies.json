@@ -92,6 +92,223 @@
 
     "type": "2022",
    "movies": [
+              {
+  "movieName":"Night at the Museum: Kahmunrah Rises ...",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-16/63c4dbe49c718.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/NightattheMuseumKahmunrahRisesAgain/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/NightattheMuseumKahmunrahRisesAgain/index.m3u8"
+    
+  },
+             {
+  "movieName":"Bed Rest",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-15/63c3af64caf9d.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/BedRest/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BedRest/index.m3u8"
+    
+  },
+             {
+  "movieName":"Detectorists Special",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-15/63c3a5b659d3c.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/DetectoristsSpecial/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DetectoristsSpecial/index.m3u8"
+    
+  },
+             {
+  "movieName":"Noktah Merah Perkawinan",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-15/63c3a4fb7e49f.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/NoktahMerahPerkawinan/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/NoktahMerahPerkawinan/index.m3u8"
+    
+  },
+             {
+  "movieName":"Turbo Cola",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-15/63c3a27245b9e.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TurboCola/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TurboCola/index.m3u8"
+    
+  },
+             {
+  "movieName":"Mishan Impossible",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-15/63c3841a839d4.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/MishanImpossible/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MishanImpossible/index.m3u8"
+    
+  },
+             {
+  "movieName":"Gangnam Zombie",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-15/63c382aa9d80a.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/GangnamZombie/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GangnamZombie/index.m3u8"
+    
+  },
+             {
+  "movieName":"Noise",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-15/63c3815b8dd0a.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Noise/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Noise/index.m3u8"
+    
+  },
+             {
+  "movieName":"Batman and Superman: Battle of the Su...",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-15/63c3785234098.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/BatmanandSupermanBattleoftheSuperSons/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BatmanandSupermanBattleoftheSuperSons/index.m3u8"
+    
+  },
+             {
+  "movieName":"Last the Night",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-15/63c3772523772.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/LasttheNight/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LasttheNight/index.m3u8"
+    
+  },
+             {
+  "movieName":"Detective Dee and The Ghost Ship",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-14/63c287bd07112.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/DetectiveDeeandTheGhostShip/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/DetectiveDeeandTheGhostShip/index.m3u8"
+    
+  },
+               {
+  "movieName":"Last Radio Call",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-14/63c27ba405a77.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/LastRadioCall/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LastRadioCall/index.m3u8"
+    
+  },
+               {
+  "movieName":"Catfish Killer",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-14/63c24a3a7cc06.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/CatfishKiller1/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CatfishKiller1/index.m3u8"
+    
+  },
+               {
+  "movieName":"A World Worth Protecting",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-14/63c228e88e61d.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/AWorldWorthProtectingep1/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AWorldWorthProtectingep1/index.m3u8"
+    
+  },
+               {
+  "movieName":"Everything Everywhere All at Once",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-13/63c11cc97eb29.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/EverythingEverywhereAllAtOnce/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/EverythingEverywhereAllAtOnce/index.m3u8"
+    
+  },
+               {
+  "movieName":"Paradise City",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-13/63c11266cc739.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/ParadiseCity/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ParadiseCity/index.m3u8"
+    
+  },
+               {
+  "movieName":"9 Ways to Hell",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-13/63c111d2d4a08.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/9WaystoHell/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/9WaystoHell/index.m3u8"
+    
+  },
+               {
+  "movieName":"The Lost Patient (a.k.a) Le Patient",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-13/63c11053f423e.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheLostPatient/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheLostPatient/index.m3u8"
+    
+  },
+               {
+  "movieName":"2037",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-13/63c0c706d9346.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/2037/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/2037/index.m3u8"
+    
+  },
+               {
+  "movieName":"Bullet Proof",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-12/63bfb04123f66.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/BulletProof/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/BulletProof/index.m3u8"
+    
+  },
+               {
+  "movieName":"Losing Addison",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-12/63bf8ed5e760a.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/LosingAddison/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LosingAddison/index.m3u8"
+    
+  },
+              {
+  "movieName":"Plan A Plan B",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-12/63bf8e2ca5975.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/PlanAPlanB/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/PlanAPlanB/index.m3u8"
+    
+  },
+              {
+  "movieName":"Kral Sakir Recycle",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-12/63bf834a62333.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/KralSakirGeriDonusum/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/KralSakirGeriDonusum/index.m3u8"
+    
+  },
+              {
+  "movieName":"Rise",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-12/63bf854c2ef2b.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Rise/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Rise/index.m3u8"
+    
+  },
+              {
+  "movieName":"Hilma",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-12/63bf735c5e1a6.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Hilma/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Hilma/index.m3u8"
+    
+  },
+              {
+  "movieName":"Yaanai",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-12/63bf72628c5d1.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Yaanai/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Yaanai/index.m3u8"
+    
+  },
+        {
+  "movieName":"Soft & Quiet",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-11/63be730f569c5.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/SoftandQuiet/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SoftandQuiet/index.m3u8"
+    
+  },
+        {
+  "movieName":"Lifemark",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-11/63be6e0bf0014.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Lifemark/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Lifemark/index.m3u8"
+    
+  },
+        {
+  "movieName":"The Swearing Jar",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-11/63be2c1275f86.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheSwearingJar/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheSwearingJar/index.m3u8"
+    
+  },
+        {
+  "movieName":"The Lost Girls",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-11/63be2b7cab0a0.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheLostGirls/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheLostGirls/index.m3u8"
+    
+  },
+        {
+  "movieName":"Evil at the Door",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-10/63bd1512c04e1.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/EvilattheDoor/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/EvilattheDoor/index.m3u8"
+    
+  },
         {
   "movieName":"Forensic",
     "img":"http://zegomovie.com/Uploads/vod/2023-01-10/63bd0f9b34905.png",
