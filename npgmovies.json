@@ -92,6 +92,132 @@
 
     "type": "2022",
    "movies": [
+          {
+  "movieName":"Pacifiction",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-18/63c7655fd3397.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Pacifiction/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Pacifiction/index.m3u8"
+    
+  },
+          {
+  "movieName":"The Three Wise Kings vs. Santa",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-17/63c6720decaa5.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheThreeWiseKingsvsSanta/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheThreeWiseKingsvsSanta/index.m3u8"
+    
+  },
+          {
+  "movieName":"The Guqin Requiem",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-17/63c671695763e.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheGuqinRequiem/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheGuqinRequiem/index.m3u8"
+    
+  },
+          {
+  "movieName":"I am Groot",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-17/63c670a76834d.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Iamgroot/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Iamgroot/index.m3u8"
+    
+  },
+          {
+  "movieName":"Rite of the Shaman",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-17/63c65f877a7b5.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/RiteOfTheShaman/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/RiteOfTheShaman/index.m3u8"
+    
+  },
+          {
+  "movieName":"Those Who Walk Away",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-17/63c65e98afdac.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/ThoseWhoWalkAway/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ThoseWhoWalkAway/index.m3u8"
+    
+  },
+          {
+  "movieName":"Godland",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-17/63c658823eb41.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/Godland/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Godland/index.m3u8"
+    
+  },
+          {
+  "movieName":"13: The Musical",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-17/63c6534f50f37.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/13TheMusical/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/13TheMusical/index.m3u8"
+    
+  },
+          {
+  "movieName":"TheDrop",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-17/63c62587f05ec.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheDrop/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheDrop/index.m3u8"
+    
+  },
+          {
+  "movieName":"Laththi Charge",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-17/63c6160f1853a.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Laththi/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Laththi/index.m3u8"
+    
+  },
+          {
+  "movieName":"578: Magnum",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-16/63c52b0fd7e89.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/578Magnum/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/578Magnum/index.m3u8"
+    
+  },
+          {
+  "movieName":"Control",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-16/63c512340b38c.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Control/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Control/index.m3u8"
+    
+  },
+          {
+  "movieName":"Ayo Putus",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-16/63c4f401317f7.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/AyoPutus/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AyoPutus/index.m3u8"
+    
+  },
+          {
+  "movieName":"Sick",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-16/63c4f3478335c.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Sick/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Sick/index.m3u8"
+    
+  },
+          {
+  "movieName":"Noise",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-16/63c4df6fb8666.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Noise/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Noise/index.m3u8"
+    
+  },
+          {
+  "movieName":"The Killing Tree / Demonic Christmas ...",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-16/63c4dd56a919e.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/demonicchristmastree/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/demonicchristmastree/index.m3u8"
+    
+  },
+          {
+  "movieName":"Jeepers Creepers: Reborn",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-16/63c4dce5b1bb9.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/JeepersCreepersReborn/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/JeepersCreepersReborn/index.m3u8"
+    
+  },
+          {
+  "movieName":"Anukoni Prayanam",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-16/63c4dc4fa7ea5.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/AnukoniPrayanam/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AnukoniPrayanam/index.m3u8"
+    
+  },
               {
   "movieName":"Night at the Museum: Kahmunrah Rises ...",
     "img":"http://zegomovie.com/Uploads/vod/2023-01-16/63c4dbe49c718.png",
