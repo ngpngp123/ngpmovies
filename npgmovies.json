@@ -3,6 +3,13 @@
         "type": "Users Request Movies",
    "movies": [
            {
+  "movieName":"A Man Called Otto",
+    "img":"http://zegomovie.com/Uploads/vod/2023-03-03/6401ae02bed5f.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/AManCalledOtto/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AManCalledOtto/index.m3u8"
+    
+  },
+           {
   "movieName":"The Boyy Who Harnessed the Windd",
     "img":"http://zegomovie.com/Uploads/vod/2019-08-09/5d4d268d30e62.jpg",
     "downloadLink":"http://www.zegomovie.com/Videos/TheBoyWhoHarnessedtheWind/index.m3u8",
@@ -92,6 +99,13 @@
 
     "type": "2022",
    "movies": [
+           {
+  "movieName":"A Man Called Otto",
+    "img":"http://zegomovie.com/Uploads/vod/2023-03-03/6401ae02bed5f.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/AManCalledOtto/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AManCalledOtto/index.m3u8"
+    
+  },
           {
   "movieName":"Requiem For a Scream",
     "img":"http://zegomovie.com/Uploads/vod/2023-01-26/63d206f4c10a7.png",
@@ -6347,6 +6361,13 @@
 
     "type": "Tom Hanks",
     "movies": [
+         {
+  "movieName":"A Man Called Otto",
+    "img":"http://zegomovie.com/Uploads/vod/2023-03-03/6401ae02bed5f.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/AManCalledOtto/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AManCalledOtto/index.m3u8"
+    
+  },
     
 {
   "movieName":"Greyhound",
