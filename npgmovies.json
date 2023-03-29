@@ -2,6 +2,13 @@
      {
         "type": "Users Request Movies",
    "movies": [
+ {
+  "movieName":"The Shawshank Redemption",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf73eebd14e4.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheShawshankRedemption/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheShawshankRedemption/index.m3u8"
+    
+  },
            {
   "movieName":"A Man Called Otto",
     "img":"http://zegomovie.com/Uploads/vod/2023-03-03/6401ae02bed5f.png",
@@ -99,6 +106,13 @@
 
     "type": "Last Uploads",
    "movies": [
+{
+  "movieName":"The Shawshank Redemption",
+    "img":"http://zegomovie.com/Uploads/vod/2019-06-05/5cf73eebd14e4.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheShawshankRedemption/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheShawshankRedemption/index.m3u8"
+    
+  },
  {
   "movieName":"The Tiger's Nest",
     "img":"http://zegomovie.com/Uploads/vod/2023-03-22/641ab6d66cede.png",
