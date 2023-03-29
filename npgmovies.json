@@ -97,8 +97,99 @@
 
      {
 
-    "type": "2022",
+    "type": "Last Uploads",
    "movies": [
+ {
+  "movieName":"The Tiger's Nest",
+    "img":"http://zegomovie.com/Uploads/vod/2023-03-22/641ab6d66cede.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheTigersNest/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheTigersNest/index.m3u8"
+    
+  },
+ {
+  "movieName":"Folklore Qizz Class",
+    "img":"http://zegomovie.com/Uploads/vod/2023-03-23/641c1419e8511.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/FolkloreQizzClass/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FolkloreQizzClass/index.m3u8"
+    
+  },
+ {
+  "movieName":"Howling Village",
+    "img":"http://zegomovie.com/Uploads/vod/2023-02-05/63df834a37401.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/HowlingVillage/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/HowlingVillage/index.m3u8"
+    
+  },
+ {
+  "movieName":"Devil in the lake",
+    "img":"http://zegomovie.com/Uploads/vod/2023-02-14/63eb58ff851c5.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Gwimot/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Gwimot/index.m3u8"
+    
+  },
+ {
+  "movieName":"The Man from Rome",
+    "img":"http://zegomovie.com/Uploads/vod/2023-03-23/641c20eb9b542.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheManfromRome/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheManfromRome/index.m3u8"
+    
+  },
+ {
+  "movieName":"Godzilla Vs Kong",
+    "img":"http://zegomovie.com/Uploads/vod/2021-04-02/6066d3f1461c7.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/GodzillaVsKong/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/GodzillaVsKong/index.m3u8"
+    
+  },
+ {
+  "movieName":"Rouge",
+    "img":"http://zegomovie.com/Uploads/vod/2023-02-27/63fc31049cfa0.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Rogue/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Rogue/index.m3u8"
+    
+  },
+ {
+  "movieName":"Arthur, Malediction",
+    "img":"http://zegomovie.com/Uploads/vod/2023-01-03/63b3b779f3b01.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/ArthurMalediction/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ArthurMalediction/index.m3u8"
+    
+  },
+ {
+  "movieName":"Santo",
+    "img":"http://zegomovie.com/Uploads/vod/2023-03-19/6416cb53296f0.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Santo/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Santo/index.m3u8"
+    
+  },
+ {
+  "movieName":"A Dog Named Palma",
+    "img":"http://zegomovie.com/Uploads/vod/2022-01-25/61efc0a5d377f.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/ADogNamedPalma/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ADogNamedPalma/index.m3u8"
+    
+  },
+ {
+  "movieName":"Pathaan",
+    "img":"http://zegomovie.com/Uploads/vod/2023-02-14/63eb462d315fb.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Pathaan/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Pathaan/index.m3u8"
+    
+  },
+ {
+  "movieName":"Am I Next",
+    "img":"http://zegomovie.com/Uploads/vod/2023-03-23/641c1e08096ed.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/AmINext/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/AmINext/index.m3u8"
+    
+  },
+ {
+  "movieName":"The Devil Conspiracy",
+    "img":"http://zegomovie.com/Uploads/vod/2023-03-23/641c1e963fdaa.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheDevilConspiracy/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheDevilConspiracy/index.m3u8"
+    
+  },
            {
   "movieName":"A Man Called Otto",
     "img":"http://zegomovie.com/Uploads/vod/2023-03-03/6401ae02bed5f.png",
