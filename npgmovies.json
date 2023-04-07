@@ -107,6 +107,125 @@
     "type": "Last Uploads",
    "movies": [
  {
+  "movieName":"Far From home",
+    "img":"http://zegomovie.com/Uploads/vod/2023-03-30/6425524bbce7e.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/FarfromHome/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/FarfromHome/index.m3u8"
+    
+  },
+ {
+  "movieName":"Teris",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-04/642bae055f2a9.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/Tetris/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Tetris/index.m3u8"
+    
+  },
+ {
+  "movieName":"The Unheard",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-07/642f7d848b627.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheUnheard/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheUnheard/index.m3u8"
+    
+  },
+ {
+  "movieName":"Baaghi 3",
+    "img":"http://zegomovie.com/Uploads/vod/2020-05-04/5eafb9421b78c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Baaghi3/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Baaghi3/index.m3u8"
+    
+  },
+ {
+  "movieName":"MAHAESHIR",
+    "img":"http://zegomovie.com/Uploads/vod/2019-10-28/5db6684cadeff.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/MAHARSHIR/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/MAHARSHIR/index.m3u8"
+    
+  },
+ {
+  "movieName":"Night In Paradise",
+    "img":"http://zegomovie.com/Uploads/vod/2021-04-23/60829cf4b8aa2.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/NightInParadise/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/NightInParadise/index.m3u8"
+    
+  },
+  {
+  "movieName":"Sarileru Neekevvaru",
+    "img":"http://zegomovie.com/Uploads/vod/2020-03-06/5e6247e69296b.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SarileruNeekevvaru/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SarileruNeekevvaru/index.m3u8"
+    
+  },
+ {
+  "movieName":"Robot Riot",
+    "img":"http://zegomovie.com/Uploads/vod/2020-08-29/5f4a25203835a.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/RobotRiot/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/RobotRiot/index.m3u8"
+    
+  },
+ {
+  "movieName":"Waltair Veerayya",
+    "img":"http://zegomovie.com/Uploads/vod/2023-03-01/63fee24ab6513.PNG",
+    "downloadLink":"http://www.zegomovie.com/Videos/WaltairVeerayya/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/WaltairVeerayya/index.m3u8"
+    
+  },
+ {
+  "movieName":"Pulimutugan",
+    "img":"http://zegomovie.com/Uploads/vod/2019-05-28/5ced22a01e4ac.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/Pulimurugan/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/Pulimurugan/index.m3u8"
+    
+  },
+ {
+  "movieName":"Soul to Keep",
+    "img":"http://zegomovie.com/Uploads/vod/2019-08-05/5d47b5191773c.jpg",
+    "downloadLink":"http://www.zegomovie.com/Videos/SoultoKeep/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/SoultoKeep/index.m3u8"
+    
+  },
+ {
+  "movieName":"Love is blind, Hate too",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-03/642aa1b997ea1.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/LoveisBlindHateToo/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/LoveisBlindHateToo/index.m3u8"
+    
+  },
+ {
+  "movieName":"Civil War Saint",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-03/642a7f992a79a.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/CivilWarSaint/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CivilWarSaint/index.m3u8"
+    
+  },
+ {
+  "movieName":"Church of Darkness",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-03/642aa85a40d71.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/ChurchOfDarkness/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/ChurchOfDarkness/index.m3u8"
+    
+  },
+ {
+  "movieName":"Cyber Heist",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-04/642ba1ddecf55.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/CyberHeist/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CyberHeist/index.m3u8"
+    
+  },
+ {
+  "movieName":"The Novelist's Film",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-06/642ea1345222e.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/TheNovelistsFilm/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/TheNovelistsFilm/index.m3u8"
+    
+  },
+ {
+  "movieName":"Coast Guard Malaysia:Ops Helang",
+    "img":"http://zegomovie.com/Uploads/vod/2023-04-06/642ea1d7cc992.png",
+    "downloadLink":"http://www.zegomovie.com/Videos/CoastGuardMalaysiaOpsHelang/index.m3u8",
+    "playLink": "http://www.zegomovie.com/Videos/CoastGuardMalaysiaOpsHelang/index.m3u8"
+    
+  },
+ {
   "movieName":"Mumbai Mafia Police",
     "img":"http://zegomovie.com/Uploads/vod/2023-03-31/6426a8ae2dee8.png",
     "downloadLink":"http://www.zegomovie.com/Videos/MumbaiMafiaPolice/index.m3u8",
